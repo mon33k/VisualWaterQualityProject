@@ -7,7 +7,7 @@ import SearchBorough from './SearchBorough';
 import Resources from './Resources';
 import waterAPI from '../api/waterAPI';
 
-class Water extends Component {
+class Main extends Component {
     constructor () {
         super()
         this.state = {
@@ -93,6 +93,7 @@ class Water extends Component {
 
     render () {
         // console.log("this.state water", this.state.savedInfo)
+        console.log("in water component ", )
         return (
             <div>
                 <Switch>
@@ -106,4 +107,4 @@ class Water extends Component {
     }
 }
 
-export default Water;
+export default Main;

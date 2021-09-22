@@ -3,7 +3,7 @@ import {Route, Switch, Link} from 'react-router-dom';
 
 import './App.css';
 import Home from './components/Home';
-import Water from './components/Water.js';
+import Main from './components/Main.js';
 
 class App extends Component {
   render() {
@@ -23,7 +23,7 @@ class App extends Component {
 
         <Switch>
           <Route exact path="/" component={Home} />
-          <Route path="/water" component={Water} />
+          <Route path="/water" component={Main} />
         </Switch>
       </div>
     );
