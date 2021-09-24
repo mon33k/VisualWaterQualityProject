@@ -24,7 +24,7 @@ class SearchBorough extends Component {
     render() {
         const { boroughs } = this.props
         console.log('this.state', this.state.value)
-        // console.log('props inside of SearchBorough',boroughs)
+        console.log('props inside of SearchBorough',boroughs)
         // console.log(boroughs)
         return (
             <div>

@@ -93,7 +93,7 @@ class Main extends Component {
 
     render () {
         // console.log("this.state water", this.state.savedInfo)
-        console.log("in water component ", )
+        console.log("in main component ", this.state.savedInfo)
         return (
             <div>
                 <Switch>
