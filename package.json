@@ -5,6 +5,8 @@
   "dependencies": {
     "@sap_oss/odata-library": "^0.10.3",
     "axios": "^0.18.0",
+    "d3": "^7.0.4",
+    "d3-geo": "^3.0.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-router-dom": "^5.3.0",

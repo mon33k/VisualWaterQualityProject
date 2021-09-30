@@ -10,14 +10,20 @@ const axios = require('axios');
 //     console.log(result);
 // });
 
-const apiUrl = "https://data.cityofnewyork.us/resource/r7js-zsqm.json"
+const openDataApiUrl = "https://data.cityofnewyork.us/resource/r7js-zsqm.json"
 
-const grabAllData = axios.get(apiUrl)
+const grabAllData = axios.get(openDataApiUrl)
     .then(res => res.data)
     .catch(err => console.log(err))
 
+const geoDataApiUrl = "https://raw.githubusercontent.com/veltman/snd3/master/data/nyc-neighborhoods.geo.json"
+
+const getGeoData = axios.get(geoDataApiUrl)
+    .then(res => res.data)
+    .catch(err => console.log(err))
 
     
 export default {
-    grabAllData
+    grabAllData,
+    getGeoData
 }
