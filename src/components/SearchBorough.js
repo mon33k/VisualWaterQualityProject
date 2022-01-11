@@ -1,66 +1,92 @@
-import React, { Component } from 'react';
-import NycMap from "./NycMap"
-import waterAPI from '../api/waterAPI';
+import React, { Component } from "react";
+// import NycMap from "./NycMap";
+import waterAPI from "../api/waterAPI";
+import values from "../geography/values.json";
+import Alert from "react-bootstrap/Alert";
+import "../stylesheets/searchBoroComponent.css";
+import { Form, Col, Row, Button } from "react-bootstrap";
 
+import InfoTable from "./InfoTable";
 
 class SearchBorough extends Component {
-    constructor() {
-        super()
-        this.state = ({
-            value: '',
-            geoData: []
-        })
-    }
+  constructor() {
+    super();
+    this.state = {
+      value: "Manhattan",
+      geoData: [],
+    };
+    this.handleInputChange = this.handleInputChange.bind(this);
+    this.handleSubmitBorough = this.handleSubmitBorough.bind(this);
+  }
 
-    // getSvgPathData () {
-    //     waterAPI.getGeoData()
-    //         .then(res => this.setState({geoData: res.json()}))
-    //         .catch(err => console.log(err))
-    // }
+  // getSvgPathData () {
+  //     waterAPI.getGeoData()
+  //         .then(res => this.setState({geoData: res.json()}))
+  //         .catch(err => console.log(err))
+  // }
 
-    handleInputChange = (e) => {
-        this.setState({
-            value: e.target.value
-        })
-    }
+  handleInputChange(e) {
+    this.setState({
+      value: e.target.value,
+    });
+  }
 
-    boroughsRender = () => { 
-        const { boroughs } = this.props
-        console.log(boroughs)
-    }
+  handleSubmitBorough(e) {
+    this.props.getBoroughData(this.state.value);
 
-    componentDidMount() {
-        // this.getSvgPathData()
-        waterAPI.getGeoData
-        .then(res =>{
-            console.log("res.json()", res)
-            this.setState({geoData: res})
-        })
-        .catch(err => console.log(err))
-    }
+    e.preventDefault();
+  }
 
+  componentDidMount() {
+    // this.getSvgPathData()
+    // waterAPI.getGeoData
+    // .then(res =>{
+    //     console.log("res.json()", res)
+    //     this.setState({geoData: res})
+    // })
+    // .catch(err => console.log(err))
+  }
 
+  render() {
+    console.log("right here", this.props.boroughData);
 
-    render() {
-        const { boroughs } = this.props
-        console.log("geoData ",this.state.geoData)
-        console.log('this.state', this.state.value)
-        console.log('props inside of SearchBorough',boroughs)
-        // console.log(boroughs)
-        return (
-            <div>
-                SearchBorough page
-                <form>
-                    <select value={this.state.value} onChange={this.handleInputChange}>
-                        {boroughs.map(e => {
-                            return <option key={e.length}>{e}</option>
-                        })}
-                    </select>
-                </form>
-                <NycMap geoData={this.state.geoData}/>
-            </div>
-        )
-    }
+    return (
+      <div>
+        <Form onSubmit={this.handleSubmitBorough} id="boroughForm">
+          <Form.Select
+            value={this.state.value}
+            onChange={this.handleInputChange}
+            form="boroughForm"
+          >
+            <option key="manh" value="Manhattan">
+              Manhattan
+            </option>
+            <option key="bx" value="Bronx">
+              Bronx
+            </option>
+            <option key="qns" value="Queens">
+              Queens
+            </option>
+            <option key="bk" value="Brooklyn">
+              Brooklyn
+            </option>
+            <option key="si" value="Staten Island">
+              Staten Island
+            </option>
+          </Form.Select>
+          <Button type="submit" value="Submit">
+            Submit
+          </Button>
+        </Form>
+        {this.props.boroughData.length > 0 ? (
+          <InfoTable data={this.props.boroughData} />
+        ) : (
+          ""
+        )}
+      </div>
+    );
+  }
 }
 
+// {/* <NycMap geoData={values}/> */}
 export default SearchBorough;
