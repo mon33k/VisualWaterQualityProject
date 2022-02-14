@@ -1,0 +1,2410 @@
+{
+  "SP2020-w-XY-coordinates": [
+    {
+      "Sample Site": "1S03",
+      "Sample Station (SS) - Location Description": "Shaft 3 of City Tunnel No.1 - E/S Goulden Ave, S/O Sedgwick Ave, OPP JPR GH7",
+      "X - Coordinate": "1024950",
+      "Y - Coordinate": "264277"
+    },
+    {
+      "Sample Site": "1S04",
+      "Sample Station (SS) - Location Description": "Shaft 4 of City Tunnel No.1 - IFO 2780 Reservoir Ave, E/S Reservoir Ave, 1st SS N/O Strong St (@ intersection of Reservoir Ave & Goulden)",
+      "X - Coordinate": "1012568",
+      "Y - Coordinate": "256577"
+    },
+    {
+      "Sample Site": "1S03A",
+      "Sample Station (SS) - Location Description": "Shaft 3A of City Tunnel No.2 - S/S E 233rd St, W/O Bronxwood Ave IFO 862 E 233rd St.",
+      "X - Coordinate": "1024721",
+      "Y - Coordinate": "264392"
+    },
+    {
+      "Sample Site": "1S07",
+      "Sample Station (SS) - Location Description": "Shaft 7 of City Tunnel No.1 - NE/S W 167th St, 1st SE/O Sedgwick Ave IFO 1260 Sedgwick Ave",
+      "X - Coordinate": "1004013",
+      "Y - Coordinate": "245233"
+    },
+    {
+      "Sample Site": "1S03B",
+      "Sample Station (SS) - Location Description": "Shaft 3B of City Tunnel No.3 - W/S Jerome Ave, S/O access road to Mosholu Golf Course (SW corner of entrance to park)",
+      "X - Coordinate": "1014949",
+      "Y - Coordinate": "260688"
+    },
+    {
+      "Sample Site": "1SCL1",
+      "Sample Station (SS) - Location Description": "Jerome Park Reservoir (W205th St & Goulden Ave, Bx) - Croton Distribution Chamber - low pressure service tunnel, Tap in Gatehouse #5, treated water",
+      "X - Coordinate": "1013921",
+      "Y - Coordinate": "259223"
+    },
+    {
+      "Sample Site": "1SCH3",
+      "Sample Station (SS) - Location Description": "Jerome Park Reservoir (W205th St & Goulden Ave, Bx) - Croton Distribution Chamber - high pressure service tunnel, Tap #3 in Gatehouse #5, treated water",
+      "X - Coordinate": "1013921",
+      "Y - Coordinate": "259223"
+    },
+    {
+      "Sample Site": "1SCH4",
+      "Sample Station (SS) - Location Description": "Jerome Park Reservoir (W205th St & Goulden Ave, Bx) - Croton Distribution Chamber - high pressure service tunnel, Tap in Gatehouse #5, treated water",
+      "X - Coordinate": "1013921",
+      "Y - Coordinate": "259223"
+    },
+    {
+      "Sample Site": "10150",
+      "Sample Station (SS) - Location Description": "W/S Zerega Ave, 1st SS S/O Hermany Ave, 12\" OPP NYC Sanitation",
+      "X - Coordinate": "1027625",
+      "Y - Coordinate": "239952"
+    },
+    {
+      "Sample Site": "10250",
+      "Sample Station (SS) - Location Description": "W/S Nelson Ave, 1st SS N/O W 168th St (OPP school-1248 Nelson Ave), 12\"",
+      "X - Coordinate": "1005082",
+      "Y - Coordinate": "244866"
+    },
+    {
+      "Sample Site": "10550",
+      "Sample Station (SS) - Location Description": "W/S Stadium Ave, 1St SS N/O Randolph Pl, 12\"",
+      "X - Coordinate": "1033944",
+      "Y - Coordinate": "246040"
+    },
+    {
+      "Sample Site": "10750",
+      "Sample Station (SS) - Location Description": "N/S Bartow Ave, 2nd SS W/O Co-op City Blvd, 20\"",
+      "X - Coordinate": "1031623",
+      "Y - Coordinate": "256138"
+    },
+    {
+      "Sample Site": "10850",
+      "Sample Station (SS) - Location Description": "E/S Riverdale Ave, 1st SS S/O W 260th St (IFO church), OPP 5977 Riverdale Ave, 12\"",
+      "X - Coordinate": "1010873",
+      "Y - Coordinate": "270095"
+    },
+    {
+      "Sample Site": "11050",
+      "Sample Station (SS) - Location Description": "IFO 1675 W/S University Ave, 2nd SS S/O W 176th St, IFO 1669 University Ave, 12\"",
+      "X - Coordinate": "1006824",
+      "Y - Coordinate": "248454"
+    },
+    {
+      "Sample Site": "11150",
+      "Sample Station (SS) - Location Description": "IFO 71E N/S E 183rd St, 1st SS W/O Morris Ave, 12\"",
+      "X - Coordinate": "1011330",
+      "Y - Coordinate": "251963"
+    },
+    {
+      "Sample Site": "11250",
+      "Sample Station (SS) - Location Description": "IFO 925 N/S E Tremont Ave, 1st SS E/O Daly Ave, 20\"",
+      "X - Coordinate": "1016434",
+      "Y - Coordinate": "245999"
+    },
+    {
+      "Sample Site": "11350",
+      "Sample Station (SS) - Location Description": "W/S Metropolitan Ave, 2nd SS N/O Parkchester Rd (IFO Macy's), 20\"",
+      "X - Coordinate": "1022677",
+      "Y - Coordinate": "244011"
+    },
+    {
+      "Sample Site": "11450",
+      "Sample Station (SS) - Location Description": "IFO 920 S/S Co - op City Blvd, 2nd SS W/O Dreiser Loop, 20\"",
+      "X - Coordinate": "1031142",
+      "Y - Coordinate": "259322"
+    },
+    {
+      "Sample Site": "11550",
+      "Sample Station (SS) - Location Description": "IFO 1058 S/S E Gun Hill Rd, 1st SS E/O Hone Ave, 12\"",
+      "X - Coordinate": "1023792",
+      "Y - Coordinate": "257836"
+    },
+    {
+      "Sample Site": "11750",
+      "Sample Station (SS) - Location Description": "IFO 250 E/S City Island Ave, BTW Carroll & Schofield Sts, 20\"",
+      "X - Coordinate": "1043521",
+      "Y - Coordinate": "247419"
+    },
+    {
+      "Sample Site": "11900",
+      "Sample Station (SS) - Location Description": "S/S E 177th St, BTW Walton & Morris Aves, 36\"",
+      "X - Coordinate": "1009464",
+      "Y - Coordinate": "248889"
+    },
+    {
+      "Sample Site": "12000",
+      "Sample Station (SS) - Location Description": "OPP 1540 W/S Jerome Ave, 1st SS S/O Goble Pl, 48\"",
+      "X - Coordinate": "1007590",
+      "Y - Coordinate": "246530"
+    },
+    {
+      "Sample Site": "12150",
+      "Sample Station (SS) - Location Description": "IFO 963 N/S E 233rd St, 2nd SS W/O Gunther Ave, 12\"",
+      "X - Coordinate": "1025842",
+      "Y - Coordinate": "263931"
+    },
+    {
+      "Sample Site": "12250",
+      "Sample Station (SS) - Location Description": "OPP 1134 N/S E 225th St, 2nd SS W/O Schieffelin Ave, 12\"",
+      "X - Coordinate": "1026480",
+      "Y - Coordinate": "261194"
+    },
+    {
+      "Sample Site": "12550",
+      "Sample Station (SS) - Location Description": "IFO 352 S/S E Gun Hill Rd, 1st SS W/O Decatur Ave, 20\"",
+      "X - Coordinate": "1019445",
+      "Y - Coordinate": "259431"
+    },
+    {
+      "Sample Site": "13050",
+      "Sample Station (SS) - Location Description": "IFO 2431 W/S Eastchester Rd, 2nd SS S/O Mace Ave, 12\"",
+      "X - Coordinate": "1027551",
+      "Y - Coordinate": "253340"
+    },
+    {
+      "Sample Site": "13150",
+      "Sample Station (SS) - Location Description": "IFO 2805 W/S Grand Concourse, 2nd SS S/O E 197th St, 20\"",
+      "X - Coordinate": "1014019",
+      "Y - Coordinate": "255932"
+    },
+    {
+      "Sample Site": "13350",
+      "Sample Station (SS) - Location Description": "N/S E Fordham Rd, 1st SS E/O Washington Ave, 20\"",
+      "X - Coordinate": "1015047",
+      "Y - Coordinate": "252761"
+    },
+    {
+      "Sample Site": "13550",
+      "Sample Station (SS) - Location Description": "IFO 2015 W/S University Ave, 1st SS S/O W 180th St, 12\"",
+      "X - Coordinate": "1008924",
+      "Y - Coordinate": "250942"
+    },
+    {
+      "Sample Site": "13600",
+      "Sample Station (SS) - Location Description": "E/S Southern Blvd, BTW E 180th & E 181st Sts, 36\"",
+      "X - Coordinate": "1016282",
+      "Y - Coordinate": "247551"
+    },
+    {
+      "Sample Site": "13700",
+      "Sample Station (SS) - Location Description": "W/S Southern Blvd, BTW Garden & E 182nd Sts, 48\"",
+      "X - Coordinate": "1016626",
+      "Y - Coordinate": "248602"
+    },
+    {
+      "Sample Site": "13850",
+      "Sample Station (SS) - Location Description": "IFO 1778 E/S Jerome Ave, 1st SS S/O E 176th St, 12\"",
+      "X - Coordinate": "1008681",
+      "Y - Coordinate": "248387"
+    },
+    {
+      "Sample Site": "13900",
+      "Sample Station (SS) - Location Description": "S/S E 180th St, BTW Webster & Valentine Aves, IFO School 48\"",
+      "X - Coordinate": "1012181",
+      "Y - Coordinate": "249738"
+    },
+    {
+      "Sample Site": "14000",
+      "Sample Station (SS) - Location Description": "IFO 960 S/S E 156th St, BTW Kelly & Beck Sts, 48\"",
+      "X - Coordinate": "1012057",
+      "Y - Coordinate": "236583"
+    },
+    {
+      "Sample Site": "14100",
+      "Sample Station (SS) - Location Description": "SS -OPP 1540 W/S Jerome Ave, 2nd SS S/O Goble Pl, 48\"",
+      "X - Coordinate": "1007582",
+      "Y - Coordinate": "246514"
+    },
+    {
+      "Sample Site": "14200",
+      "Sample Station (SS) - Location Description": "E/S Southern Blvd, BTW E 172nd & E 173rd Sts, OPP 1571 Southern Blvd, 36\"",
+      "X - Coordinate": "1015030",
+      "Y - Coordinate": "243659"
+    },
+    {
+      "Sample Site": "14350",
+      "Sample Station (SS) - Location Description": "OPP 3748 W/S Third Ave, 1st SS N/O St Paul's Pl, 20\"",
+      "X - Coordinate": "1011164",
+      "Y - Coordinate": "243988"
+    },
+    {
+      "Sample Site": "14450",
+      "Sample Station (SS) - Location Description": "OPP 958 W/S Gerard Ave, 2nd SS S/O E 164th St, 12\"",
+      "X - Coordinate": "1005321",
+      "Y - Coordinate": "241483"
+    },
+    {
+      "Sample Site": "14650",
+      "Sample Station (SS) - Location Description": "E/S Concourse Village East, 1st SS N/O E 158th St, 12\"",
+      "X - Coordinate": "1006655",
+      "Y - Coordinate": "239592"
+    },
+    {
+      "Sample Site": "14850",
+      "Sample Station (SS) - Location Description": "W/S Jackson Ave, 1st SS S/O St Mary's St, 20\"",
+      "X - Coordinate": "1008919",
+      "Y - Coordinate": "233877"
+    },
+    {
+      "Sample Site": "14950",
+      "Sample Station (SS) - Location Description": "N/S E 135th St, 2nd SS W/O Willis Ave, 12\"",
+      "X - Coordinate": "1004935",
+      "Y - Coordinate": "233559"
+    },
+    {
+      "Sample Site": "15050",
+      "Sample Station (SS) - Location Description": "W/S Trinity Ave, 2nd SS S/O E 163rd St (IFO school), 16\"",
+      "X - Coordinate": "1010196",
+      "Y - Coordinate": "238892"
+    },
+    {
+      "Sample Site": "15150",
+      "Sample Station (SS) - Location Description": "IFO 1420 E/S Grand Concourse, 1st SS S/O E 171st St, 12\"",
+      "X - Coordinate": "1008300",
+      "Y - Coordinate": "245099"
+    },
+    {
+      "Sample Site": "15250",
+      "Sample Station (SS) - Location Description": "IFO 4315 W/S Third Ave, 1st SS N/O E 179th St, 20\"",
+      "X - Coordinate": "1013358",
+      "Y - Coordinate": "248845"
+    },
+    {
+      "Sample Site": "15300",
+      "Sample Station (SS) - Location Description": "W/S Bailey Ave, BTW W 231st & W 233rd Sts, 48\"",
+      "X - Coordinate": "1011253",
+      "Y - Coordinate": "259260"
+    },
+    {
+      "Sample Site": "15450",
+      "Sample Station (SS) - Location Description": "IFO 79E N/S East Gun Hill Rd, 1st SS W/O Rochambeau Ave, IFO 83 E. Gun Hill Rd, 20\"",
+      "X - Coordinate": "1017550",
+      "Y - Coordinate": "260554"
+    },
+    {
+      "Sample Site": "15550",
+      "Sample Station (SS) - Location Description": "IFO 2499 W/S Grand Ave, 1st SS S/O W 190th St, OPP 24-84 Grand Ave 12\"",
+      "X - Coordinate": "1011297",
+      "Y - Coordinate": "254171"
+    },
+    {
+      "Sample Site": "16150",
+      "Sample Station (SS) - Location Description": "W/S Bronxdale Ave, 2nd SS S/O Rhinelander Ave, 12\"",
+      "X - Coordinate": "1022864",
+      "Y - Coordinate": "248301"
+    },
+    {
+      "Sample Site": "16250",
+      "Sample Station (SS) - Location Description": "IFO 251 N/S E 204th St, 1st SS E/O Valentine Ave, 12\"",
+      "X - Coordinate": "1016202",
+      "Y - Coordinate": "257822"
+    },
+    {
+      "Sample Site": "16450",
+      "Sample Station (SS) - Location Description": "IFO 3902 E/S White Plains Rd, 1st SS N/O E 222nd St, 20\"",
+      "X - Coordinate": "1022580",
+      "Y - Coordinate": "262068"
+    },
+    {
+      "Sample Site": "16650",
+      "Sample Station (SS) - Location Description": "IFO 1541 N/S Westchester Ave, BTW Boynton & Ward Aves,  20\"",
+      "X - Coordinate": "1018029",
+      "Y - Coordinate": "241253"
+    },
+    {
+      "Sample Site": "16950",
+      "Sample Station (SS) - Location Description": "W/S Westchester Ave, 1st SS N/O St Peters Ave, 20\"",
+      "X - Coordinate": "1027285",
+      "Y - Coordinate": "244910"
+    },
+    {
+      "Sample Site": "17050",
+      "Sample Station (SS) - Location Description": "IFO 4740 E/S White Plains Rd, 1st SS N/O St Ouen St, 20\"",
+      "X - Coordinate": "1025828",
+      "Y - Coordinate": "268839"
+    },
+    {
+      "Sample Site": "17250",
+      "Sample Station (SS) - Location Description": "N/S Allerton Ave, 1st SS E/O Throop Ave, 12\"",
+      "X - Coordinate": "1025509",
+      "Y - Coordinate": "254616"
+    },
+    {
+      "Sample Site": "17350",
+      "Sample Station (SS) - Location Description": "N/S W 232nd St, 1st SS E/O Arlington Ave, 12\"",
+      "X - Coordinate": "1008514",
+      "Y - Coordinate": "261350"
+    },
+    {
+      "Sample Site": "17450",
+      "Sample Station (SS) - Location Description": "IFO 2548 E/S White Plains Rd, 2nd SS N/O Mace Ave, 20\"",
+      "X - Coordinate": "1020965",
+      "Y - Coordinate": "254176"
+    },
+    {
+      "Sample Site": "17550",
+      "Sample Station (SS) - Location Description": "IFO 309 N/S E 149th St, 2nd SS W/O Courtlandt Ave, 12\"",
+      "X - Coordinate": "1006168",
+      "Y - Coordinate": "236943"
+    },
+    {
+      "Sample Site": "17650",
+      "Sample Station (SS) - Location Description": "IFO 1871 N/S Lafayette Ave, 1st SS W/O Underhill Ave, 12\"",
+      "X - Coordinate": "1022842",
+      "Y - Coordinate": "238715"
+    },
+    {
+      "Sample Site": "17750",
+      "Sample Station (SS) - Location Description": "IFO 835 W/S Hunts Point Ave, 1st SS S/O Gilbert Pl, 12\"",
+      "X - Coordinate": "1015077",
+      "Y - Coordinate": "237136"
+    },
+    {
+      "Sample Site": "17950",
+      "Sample Station (SS) - Location Description": "W/S Kingsbridge Ave, 1st SS N/O W 232nd St, 12\"",
+      "X - Coordinate": "1010441",
+      "Y - Coordinate": "260348"
+    },
+    {
+      "Sample Site": "18000",
+      "Sample Station (SS) - Location Description": "SS -S/S of Westbound Bronx & Pelham Pkwy, on Center Median W/O Eastchester Rd, 36\"",
+      "X - Coordinate": "1026261",
+      "Y - Coordinate": "251872"
+    },
+    {
+      "Sample Site": "18100",
+      "Sample Station (SS) - Location Description": "IFO 2208 S/S Starling Ave, BTW Castle Hill & Glebe Aves, 48\"",
+      "X - Coordinate": "1025309",
+      "Y - Coordinate": "244013"
+    },
+    {
+      "Sample Site": "18200",
+      "Sample Station (SS) - Location Description": "IFO 653 E/S River Ave, BTW E 150th & E 151st Sts, 36\"",
+      "X - Coordinate": "1003933",
+      "Y - Coordinate": "238872"
+    },
+    {
+      "Sample Site": "18300",
+      "Sample Station (SS) - Location Description": "E/S Southern Blvd, BTW St Mary's & E 142nd Sts, 36\"",
+      "X - Coordinate": "1009738",
+      "Y - Coordinate": "233525"
+    },
+    {
+      "Sample Site": "18450",
+      "Sample Station (SS) - Location Description": "W/S West Farms Rd, 2nd SS S/O E 167th St, OPP 1096 West Farms Rd, 12\"",
+      "X - Coordinate": "1014529",
+      "Y - Coordinate": "240306"
+    },
+    {
+      "Sample Site": "18500",
+      "Sample Station (SS) - Location Description": "S/S E 164th St, BTW River & Gerard Aves, 48\"",
+      "X - Coordinate": "1005303",
+      "Y - Coordinate": "241864"
+    },
+    {
+      "Sample Site": "18650",
+      "Sample Station (SS) - Location Description": "N/S Dewey Ave, BTW Quincy & Swinton Aves, 12\"",
+      "X - Coordinate": "1033436",
+      "Y - Coordinate": "238573"
+    },
+    {
+      "Sample Site": "18750",
+      "Sample Station (SS) - Location Description": "IFO 4977 W/S Henry Hudson Pkwy, 2nd SS S/O W 252nd St, 20\"",
+      "X - Coordinate": "1009639",
+      "Y - Coordinate": "266491"
+    },
+    {
+      "Sample Site": "18800",
+      "Sample Station (SS) - Location Description": "IFO 750 S/S E 169th St, BTW Boston Rd & Tinton Ave, 36\"",
+      "X - Coordinate": "1011911",
+      "Y - Coordinate": "242028"
+    },
+    {
+      "Sample Site": "18900",
+      "Sample Station (SS) - Location Description": "IFO 3453 W/S Jerome Ave, btw W Gun Hill Rd & E 208th St, 36 inch",
+      "X - Coordinate": "1016746",
+      "Y - Coordinate": "260551"
+    },
+    {
+      "Sample Site": "19000",
+      "Sample Station (SS) - Location Description": "IFO 758 S/S E 233rd St, BTW Barnes & Byron Aves, 1st E/O Byron Ave 48\"",
+      "X - Coordinate": "1024284",
+      "Y - Coordinate": "264511"
+    },
+    {
+      "Sample Site": "20050",
+      "Sample Station (SS) - Location Description": "N/S Ave U, 1st SS W/O E 65th St, 12\"",
+      "X - Coordinate": "1008686",
+      "Y - Coordinate": "163991"
+    },
+    {
+      "Sample Site": "20150",
+      "Sample Station (SS) - Location Description": "E/S W 23rd St, 1st SS N/O Mermaid Ave, 12\"",
+      "X - Coordinate": "987006",
+      "Y - Coordinate": "149279"
+    },
+    {
+      "Sample Site": "20300",
+      "Sample Station (SS) - Location Description": "N/S Luquer St, BTW Columbia &  Hicks Sts, 20\"",
+      "X - Coordinate": "983104",
+      "Y - Coordinate": "186572"
+    },
+    {
+      "Sample Site": "20350",
+      "Sample Station (SS) - Location Description": "OPP 74 S/S Sullivan St, 2nd SS E/O Van Brunt St, 20\"",
+      "X - Coordinate": "981016",
+      "Y - Coordinate": "186055"
+    },
+    {
+      "Sample Site": "20650",
+      "Sample Station (SS) - Location Description": "W/S 21st Ave, 2nd SS S/O Cropsey Ave, 12\"",
+      "X - Coordinate": "983827",
+      "Y - Coordinate": "157189"
+    },
+    {
+      "Sample Site": "20750",
+      "Sample Station (SS) - Location Description": "S/S Park Ave, BTW Emerson Pl & Steuben St, 16\"",
+      "X - Coordinate": "994544",
+      "Y - Coordinate": "192845"
+    },
+    {
+      "Sample Site": "20850",
+      "Sample Station (SS) - Location Description": "E/S Union Ave, 1st SS N/O Frost St, IFO 568 Union Ave, 20\"",
+      "X - Coordinate": "997523",
+      "Y - Coordinate": "200731"
+    },
+    {
+      "Sample Site": "20900",
+      "Sample Station (SS) - Location Description": "S/S Sands St. BTW Gold St. and Manhattan Brg. Ent. Ramp, OPP 177 Sands St, 48\"",
+      "X - Coordinate": "988841",
+      "Y - Coordinate": "194197"
+    },
+    {
+      "Sample Site": "20950",
+      "Sample Station (SS) - Location Description": "E/S Clinton St, 2nd SS N/O Pierrepont St, IFO 33 Clinton St, 20\"",
+      "X - Coordinate": "986528",
+      "Y - Coordinate": "192665"
+    },
+    {
+      "Sample Site": "21000",
+      "Sample Station (SS) - Location Description": "N/S Pacific St, BTW Buffalo & Rochester Aves, 48\"",
+      "X - Coordinate": "1004547",
+      "Y - Coordinate": "185738"
+    },
+    {
+      "Sample Site": "21050",
+      "Sample Station (SS) - Location Description": "N/S Bergen St, 2nd SS E/O Buffalo Ave, OPP 1770 Bergen St, 12\"",
+      "X - Coordinate": "1005507",
+      "Y - Coordinate": "185097"
+    },
+    {
+      "Sample Site": "21100",
+      "Sample Station (SS) - Location Description": "S/S Willoughby Ave, BTW Clinton & Vanderbilt Aves, 66\"",
+      "X - Coordinate": "992926",
+      "Y - Coordinate": "191199"
+    },
+    {
+      "Sample Site": "21150",
+      "Sample Station (SS) - Location Description": "IFO 413 E/S Classon Ave, BTW Greene & Lexington Aves, 20\"",
+      "X - Coordinate": "995472",
+      "Y - Coordinate": "189555"
+    },
+    {
+      "Sample Site": "21250",
+      "Sample Station (SS) - Location Description": "IFO 747 N/S Lafayette Ave, 2nd SS W/O Throop Ave, 12\"",
+      "X - Coordinate": "999981",
+      "Y - Coordinate": "190980"
+    },
+    {
+      "Sample Site": "21350",
+      "Sample Station (SS) - Location Description": "IFO 1135 W/S Decatur St, 2nd SS N/O Evergreen Ave, 12\"",
+      "X - Coordinate": "1009575",
+      "Y - Coordinate": "189833"
+    },
+    {
+      "Sample Site": "21400",
+      "Sample Station (SS) - Location Description": "IFO 312 E/S Jefferson St, BTW Irving & Knickerbocker Aves, 60\"",
+      "X - Coordinate": "1004792",
+      "Y - Coordinate": "195987"
+    },
+    {
+      "Sample Site": "21450",
+      "Sample Station (SS) - Location Description": "IFO 53 E/S Knickerbocker Ave, 1st SS N/O Grattan St, 20\"",
+      "X - Coordinate": "1003549",
+      "Y - Coordinate": "196536"
+    },
+    {
+      "Sample Site": "21550",
+      "Sample Station (SS) - Location Description": "E/S Eldert La, 2nd SS N/O Stanley Ave, IFO 943 Eldert Ln, 12\"",
+      "X - Coordinate": "1022514",
+      "Y - Coordinate": "182222"
+    },
+    {
+      "Sample Site": "21650",
+      "Sample Station (SS) - Location Description": "IFO 307 E/S 7th Ave, 1st SS N/O 8th St, 12\"",
+      "X - Coordinate": "989547",
+      "Y - Coordinate": "182489"
+    },
+    {
+      "Sample Site": "21750",
+      "Sample Station (SS) - Location Description": "E/S 7th Ave, 1st SS N/O 52nd St, IFO 5115 7th Ave, 12\"",
+      "X - Coordinate": "982360",
+      "Y - Coordinate": "172983"
+    },
+    {
+      "Sample Site": "21850",
+      "Sample Station (SS) - Location Description": "IFO 37 E/S 7th Ave, 1st SS S/O St Johns Pl, 12\"",
+      "X - Coordinate": "991434",
+      "Y - Coordinate": "185676"
+    },
+    {
+      "Sample Site": "21900",
+      "Sample Station (SS) - Location Description": "N/S Eastern Pkwy (S/S of svc. Rd), BTW New York & Brooklyn Aves, IFO 645 Eastern Pkwy.  Median BTW Svc & Main 48\"",
+      "X - Coordinate": "999127",
+      "Y - Coordinate": "183310"
+    },
+    {
+      "Sample Site": "21950",
+      "Sample Station (SS) - Location Description": "IFO 992 W/S Nostrand Ave, 2nd SS S/O Sullivan Pl, 12\"",
+      "X - Coordinate": "997809",
+      "Y - Coordinate": "181345"
+    },
+    {
+      "Sample Site": "22050",
+      "Sample Station (SS) - Location Description": "IFO 130 E/S Humboldt St, 2nd SS S/O Boerum St, 20\"",
+      "X - Coordinate": "1000578",
+      "Y - Coordinate": "196313"
+    },
+    {
+      "Sample Site": "22250",
+      "Sample Station (SS) - Location Description": "IFO 9002 W/S Ft Hamilton Pkwy, 1st SS S/O 90th St, 12\"",
+      "X - Coordinate": "976873",
+      "Y - Coordinate": "164479"
+    },
+    {
+      "Sample Site": "22300",
+      "Sample Station (SS) - Location Description": "SS-E/S 8th Ave BTW 8th & 9th Sts, 72\"",
+      "X - Coordinate": "990149",
+      "Y - Coordinate": "181990"
+    },
+    {
+      "Sample Site": "22350",
+      "Sample Station (SS) - Location Description": "E/S 5th Ave, BTW 49th St & 50th Sts, IFO 4915 5th Ave, 12\"",
+      "X - Coordinate": "981481",
+      "Y - Coordinate": "174383"
+    },
+    {
+      "Sample Site": "22400",
+      "Sample Station (SS) - Location Description": "N/S 65 St, BTW 16th & 17th Aves, IFO 1641 65th St, 60\"",
+      "X - Coordinate": "985983",
+      "Y - Coordinate": "165686"
+    },
+    {
+      "Sample Site": "22550",
+      "Sample Station (SS) - Location Description": "E/S Stillwell Ave, 1st SS N/O Ave S, IFO P.S. 97 OPP 870-86 Stillwell Ave, 20\"",
+      "X - Coordinate": "988160",
+      "Y - Coordinate": "158172"
+    },
+    {
+      "Sample Site": "22600",
+      "Sample Station (SS) - Location Description": "E/S Ft Hamilton Pkwy, BTW 49th & 50th Sts, OPP 4918 Ft. Hamilton Pkwy, 72\"",
+      "X - Coordinate": "984776",
+      "Y - Coordinate": "171711"
+    },
+    {
+      "Sample Site": "22650",
+      "Sample Station (SS) - Location Description": "IFO 5601 E/S Ft Hamilton Pkwy, 1st SS S/O E 56th St, IFO 5517 Ft. Hamilton Pkwy, 20\"",
+      "X - Coordinate": "983494",
+      "Y - Coordinate": "170583"
+    },
+    {
+      "Sample Site": "22700",
+      "Sample Station (SS) - Location Description": "N/S Church Ave, BTW Ocean Pkwy & E 5th St, 48\"",
+      "X - Coordinate": "991096",
+      "Y - Coordinate": "174139"
+    },
+    {
+      "Sample Site": "22750",
+      "Sample Station (SS) - Location Description": "W/S Dahill Rd, 2nd SS S/O 15th Ave, OPP 339 Dahill Rd, 12\"",
+      "X - Coordinate": "989834",
+      "Y - Coordinate": "172129"
+    },
+    {
+      "Sample Site": "22850",
+      "Sample Station (SS) - Location Description": "N/S Beverly Rd, 1st SS E/O E 48th St, IFO 4805 Bevery Rd 16\"",
+      "X - Coordinate": "1003264",
+      "Y - Coordinate": "174746"
+    },
+    {
+      "Sample Site": "22900",
+      "Sample Station (SS) - Location Description": " W/S Washington Park, BTW Willoughby & Myrtle Aves, OPP 175 Washington Pk, 66\"",
+      "X - Coordinate": "991547",
+      "Y - Coordinate": "191369"
+    },
+    {
+      "Sample Site": "22950",
+      "Sample Station (SS) - Location Description": "N/S Myrtle Ave, 2nd SS E/O N Portland Ave, 20\"",
+      "X - Coordinate": "991169",
+      "Y - Coordinate": "191900"
+    },
+    {
+      "Sample Site": "23000",
+      "Sample Station (SS) - Location Description": "E/S Ocean Pkwy (E/S of Svc Rd), BTW Ave H & Ave I, 60\"",
+      "X - Coordinate": "992358",
+      "Y - Coordinate": "167967"
+    },
+    {
+      "Sample Site": "23150",
+      "Sample Station (SS) - Location Description": "E/S Ocean Pkwy, 2nd SS N/O Ave M, IFO 1257 Ocean Pkwy, 12\"",
+      "X - Coordinate": "992883",
+      "Y - Coordinate": "164317"
+    },
+    {
+      "Sample Site": "23200",
+      "Sample Station (SS) - Location Description": "N/S Caton Ave, BTW E 18th St & St Pauls Pl, 48\"",
+      "X - Coordinate": "994430",
+      "Y - Coordinate": "176630"
+    },
+    {
+      "Sample Site": "23250",
+      "Sample Station (SS) - Location Description": "E/S Ocean Ave, 2nd SS S/O Albemarle Rd, 20\"",
+      "X - Coordinate": "995298",
+      "Y - Coordinate": "174737"
+    },
+    {
+      "Sample Site": "23350",
+      "Sample Station (SS) - Location Description": "W/S Ocean Ave, 2nd SS S/O Ditmas Ave, OPP 985 Ocean Ave, 12\"",
+      "X - Coordinate": "995651",
+      "Y - Coordinate": "171892"
+    },
+    {
+      "Sample Site": "23450",
+      "Sample Station (SS) - Location Description": "N/S Jefferson Ave, 2nd SS W/O Lewis Ave, OPP 518 Jefferson Ave,  20\"",
+      "X - Coordinate": "1001705",
+      "Y - Coordinate": "188791"
+    },
+    {
+      "Sample Site": "23550",
+      "Sample Station (SS) - Location Description": "E/S Nostrand Ave, 2nd SS N/O Ave K, 20\"",
+      "X - Coordinate": "999091",
+      "Y - Coordinate": "167177"
+    },
+    {
+      "Sample Site": "23650",
+      "Sample Station (SS) - Location Description": "E/S Nostrand Ave, 2nd SS N/O Ave W, 20\"",
+      "X - Coordinate": "1000612",
+      "Y - Coordinate": "156721"
+    },
+    {
+      "Sample Site": "23750",
+      "Sample Station (SS) - Location Description": "E/S Ocean Ave, 2nd SS N/O Ave R, IFO 2233 Ocean Ave,  20\"",
+      "X - Coordinate": "997371",
+      "Y - Coordinate": "160498"
+    },
+    {
+      "Sample Site": "23850",
+      "Sample Station (SS) - Location Description": "W/S Ocean Pkwy, 2nd SS S/O Ave V,  IFO 2252 Ocean Pkwy (@ Gravesend Neck, 1st S/O), 20\"",
+      "X - Coordinate": "993928",
+      "Y - Coordinate": "155802"
+    },
+    {
+      "Sample Site": "23900",
+      "Sample Station (SS) - Location Description": "S/S Atlantic Ave, BTW Schenck Ave & Barbey St, 48\"",
+      "X - Coordinate": "1015080",
+      "Y - Coordinate": "185857"
+    },
+    {
+      "Sample Site": "23950",
+      "Sample Station (SS) - Location Description": "S/S Liberty Ave, 1st SS E/O Sheridan Ave,  IFO 1146 Liberty Ave, 12\"",
+      "X - Coordinate": "1021191",
+      "Y - Coordinate": "186564"
+    },
+    {
+      "Sample Site": "24050",
+      "Sample Station (SS) - Location Description": "IFO 2940 W/S Ocean Ave, 2nd SS S/O Ave Y, 16\"",
+      "X - Coordinate": "998224",
+      "Y - Coordinate": "154096"
+    },
+    {
+      "Sample Site": "24150",
+      "Sample Station (SS) - Location Description": "IFO 2220 S/S Atlantic Ave, 2nd SS E/O Hopkinson Ave (Thomas S. Boyland St), 20\"",
+      "X - Coordinate": "1008575",
+      "Y - Coordinate": "185680"
+    },
+    {
+      "Sample Site": "24250",
+      "Sample Station (SS) - Location Description": "W/S 20th Ave, 1st SS S/O 58th St, 12\"",
+      "X - Coordinate": "989290",
+      "Y - Coordinate": "165338"
+    },
+    {
+      "Sample Site": "24300",
+      "Sample Station (SS) - Location Description": "E/S Ocean Pkwy, BTW Ave Z & Belt Pkwy, (median BTW Main & Svc Rd of Ocean Pkwy), 30\"",
+      "X - Coordinate": "993640",
+      "Y - Coordinate": "152726"
+    },
+    {
+      "Sample Site": "24350",
+      "Sample Station (SS) - Location Description": "W/S Brighton 11th St, 2nd SS S/O Cass Pl, IFO 82 Brighton 11th St, 12\"",
+      "X - Coordinate": "996121",
+      "Y - Coordinate": "150850"
+    },
+    {
+      "Sample Site": "24450",
+      "Sample Station (SS) - Location Description": "E/S Brooklyn Ave, 2nd SS S/O Linden Blvd, IFO 887 Brooklyn Ave, 20\"",
+      "X - Coordinate": "999844",
+      "Y - Coordinate": "176855"
+    },
+    {
+      "Sample Site": "24550",
+      "Sample Station (SS) - Location Description": "OPP 4106 N/S Glenwood Rd, 1st SS W/O E 42nd St, 12\"",
+      "X - Coordinate": "1001869",
+      "Y - Coordinate": "170545"
+    },
+    {
+      "Sample Site": "24650",
+      "Sample Station (SS) - Location Description": "N/S Linden Blvd, 1st SS E/O Bristol St, 12\"",
+      "X - Coordinate": "1009614",
+      "Y - Coordinate": "177814"
+    },
+    {
+      "Sample Site": "24700",
+      "Sample Station (SS) - Location Description": "S/S Ave P, BTW Coney Island Ave & E 12th St, (E/O Coney Island Ave), 60\"",
+      "X - Coordinate": "994790",
+      "Y - Coordinate": "161491"
+    },
+    {
+      "Sample Site": "24750",
+      "Sample Station (SS) - Location Description": "IFO 1660 W/S E 13th St, 2nd SS N/O Quentin Rd, 20\"",
+      "X - Coordinate": "995293",
+      "Y - Coordinate": "161067"
+    },
+    {
+      "Sample Site": "24850",
+      "Sample Station (SS) - Location Description": "N/S New Lots Ave, 1st SS W/O Shepherd Ave, 16\"",
+      "X - Coordinate": "1017701",
+      "Y - Coordinate": "182613"
+    },
+    {
+      "Sample Site": "24950",
+      "Sample Station (SS) - Location Description": "IFO 1169 N/S East New York Ave, 2nd SS W/O Ralph Ave, 12\"",
+      "X - Coordinate": "1005399",
+      "Y - Coordinate": "182198"
+    },
+    {
+      "Sample Site": "25050",
+      "Sample Station (SS) - Location Description": "W/S Pennsylvania Ave, 1st SS N/O Hegeman Ave, IFO 718 Penn. Ave, 20\"",
+      "X - Coordinate": "1014257",
+      "Y - Coordinate": "179774"
+    },
+    {
+      "Sample Site": "25100",
+      "Sample Station (SS) - Location Description": "IFO 630 W/S Howard Ave, BTW Sutter & East New York Aves, 60\"",
+      "X - Coordinate": "1006510",
+      "Y - Coordinate": "182108"
+    },
+    {
+      "Sample Site": "25150",
+      "Sample Station (SS) - Location Description": "E/O Mother Gaston Blvd, 2nd SS N/O Livonia Ave, 12\"",
+      "X - Coordinate": "1010559",
+      "Y - Coordinate": "181082"
+    },
+    {
+      "Sample Site": "25250",
+      "Sample Station (SS) - Location Description": "S/S Foster Ave, 2nd SS E/O E 101st St, 20\"",
+      "X - Coordinate": "1011381",
+      "Y - Coordinate": "176277"
+    },
+    {
+      "Sample Site": "25350",
+      "Sample Station (SS) - Location Description": "W/S Remsen Ave, 1st SS N/O Ave M, 20\"",
+      "X - Coordinate": "1012292",
+      "Y - Coordinate": "170203"
+    },
+    {
+      "Sample Site": "25400",
+      "Sample Station (SS) - Location Description": "S/S Pacific St, BTW Franklin & Classon Aves, 48\"",
+      "X - Coordinate": "996612",
+      "Y - Coordinate": "186417"
+    },
+    {
+      "Sample Site": "25450",
+      "Sample Station (SS) - Location Description": "IFO 1030 S/S Park Pl, 2nd SS E/O Brooklyn Ave, 12\"",
+      "X - Coordinate": "999921",
+      "Y - Coordinate": "184474"
+    },
+    {
+      "Sample Site": "25550",
+      "Sample Station (SS) - Location Description": "E/S Bedford Ave, 2nd SS S/O Montgomery St, 20\"",
+      "X - Coordinate": "996201",
+      "Y - Coordinate": "181648"
+    },
+    {
+      "Sample Site": "25900",
+      "Sample Station (SS) - Location Description": "S/S Kings Highway, BTW E 35th & E 36th Sts, 60\"",
+      "X - Coordinate": "1000853",
+      "Y - Coordinate": "165505"
+    },
+    {
+      "Sample Site": "25950",
+      "Sample Station (SS) - Location Description": "E/S Flatbush Ave, 2nd SS N/O Ave R, IFO 2185 Flatbush Ave, 16\"",
+      "X - Coordinate": "1003601",
+      "Y - Coordinate": "164002"
+    },
+    {
+      "Sample Site": "26300",
+      "Sample Station (SS) - Location Description": "W/S Vermont St, BTW Jamaica & Sunnyside Aves, 48\"",
+      "X - Coordinate": "1013103",
+      "Y - Coordinate": "186926"
+    },
+    {
+      "Sample Site": "26500",
+      "Sample Station (SS) - Location Description": "IFO 336 W/S 6th Ave, BTW 3rd and 4th St, 66\"",
+      "X - Coordinate": "989404",
+      "Y - Coordinate": "183806"
+    },
+    {
+      "Sample Site": "26550",
+      "Sample Station (SS) - Location Description": "E/S 4th Ave, 1st SS S/O Sackett St, 20\"",
+      "X - Coordinate": "989092",
+      "Y - Coordinate": "186247"
+    },
+    {
+      "Sample Site": "26700",
+      "Sample Station (SS) - Location Description": "IFO 426 S/S Sterling Pl, BTW Underhill & Washington Aves, 72\"",
+      "X - Coordinate": "994175",
+      "Y - Coordinate": "185107"
+    },
+    {
+      "Sample Site": "26750",
+      "Sample Station (SS) - Location Description": "IFO 1110 N/S President St, 2nd SS E/O Bedford Ave, 12\"",
+      "X - Coordinate": "997012",
+      "Y - Coordinate": "182764"
+    },
+    {
+      "Sample Site": "26850",
+      "Sample Station (SS) - Location Description": "W/S W 37th St, 2nd SS n/O Neptune Ave, 12\"",
+      "X - Coordinate": "983249",
+      "Y - Coordinate": "150034"
+    },
+    {
+      "Sample Site": "26950",
+      "Sample Station (SS) - Location Description": "IFO 1058 N/S Metropolitan Ave, 2nd SS W/O Vandervoort Ave, 20\"",
+      "X - Coordinate": "1002385",
+      "Y - Coordinate": "199590"
+    },
+    {
+      "Sample Site": "27000",
+      "Sample Station (SS) - Location Description": "IFO 383 W/S Hooper St, BTW S 1st & S 2nd Sts, 72\"",
+      "X - Coordinate": "996850",
+      "Y - Coordinate": "197261"
+    },
+    {
+      "Sample Site": "27350",
+      "Sample Station (SS) - Location Description": "OPP 1035 S/S Clarkson Ave, 1st SS W/O E 93rd St, 12\"",
+      "X - Coordinate": "1005520",
+      "Y - Coordinate": "179355"
+    },
+    {
+      "Sample Site": "27450",
+      "Sample Station (SS) - Location Description": "IFO 1915 E/S Ocean Ave, 2nd SS N/O Ave O, 20\"",
+      "X - Coordinate": "996950",
+      "Y - Coordinate": "163407"
+    },
+    {
+      "Sample Site": "27550",
+      "Sample Station (SS) - Location Description": "N/S Farragut Rd, BTW E 81st & E 82nd Sts, 12\"",
+      "X - Coordinate": "1007600",
+      "Y - Coordinate": "172230"
+    },
+    {
+      "Sample Site": "27600",
+      "Sample Station (SS) - Location Description": "E/S Palmetto St, BTW Bushwick & Evergreen Aves, IFO 80 Palmetto St, 60\"",
+      "X - Coordinate": "1006714",
+      "Y - Coordinate": "191168"
+    },
+    {
+      "Sample Site": "27650",
+      "Sample Station (SS) - Location Description": "IFO 59 E/S Patchen Ave, 1st SS S/O Lexington Ave, 20\"",
+      "X - Coordinate": "1004372",
+      "Y - Coordinate": "190749"
+    },
+    {
+      "Sample Site": "27750",
+      "Sample Station (SS) - Location Description": "IFO 165 N/S S 1st St, 2nd SS W/O Driggs Ave, 20\"",
+      "X - Coordinate": "995052",
+      "Y - Coordinate": "199303"
+    },
+    {
+      "Sample Site": "27850",
+      "Sample Station (SS) - Location Description": "IFO 136 S/S Kent St, 2nd SS E/O Franklin St, 20\"",
+      "X - Coordinate": "996572",
+      "Y - Coordinate": "205514"
+    },
+    {
+      "Sample Site": "28050",
+      "Sample Station (SS) - Location Description": "IFO 579 N/S Macon St, 2nd SS W/O Patchen Ave, 20\"",
+      "X - Coordinate": "1004177",
+      "Y - Coordinate": "188340"
+    },
+    {
+      "Sample Site": "28450",
+      "Sample Station (SS) - Location Description": "IFO 2323 NE/S 60th St, 2nd SS W/O McDonald Ave, IFO 2323 60th St, 16\"",
+      "X - Coordinate": "991065",
+      "Y - Coordinate": "163335"
+    },
+    {
+      "Sample Site": "28550",
+      "Sample Station (SS) - Location Description": "E/S W 5th St, 2nd SS S/O Neptune Ave, IFO 2925 W 5th St, 12\"",
+      "X - Coordinate": "991951",
+      "Y - Coordinate": "149887"
+    },
+    {
+      "Sample Site": "28950",
+      "Sample Station (SS) - Location Description": "W/S 14th Ave, 1st SS N/O 52nd St, 20\"",
+      "X - Coordinate": "986578",
+      "Y - Coordinate": "169591"
+    },
+    {
+      "Sample Site": "29050",
+      "Sample Station (SS) - Location Description": "N/S 81st St, 1st SS E/O 19th Ave, 12\"",
+      "X - Coordinate": "985048",
+      "Y - Coordinate": "161009"
+    },
+    {
+      "Sample Site": "29300",
+      "Sample Station (SS) - Location Description": "E/S 5th Ave, BTW 24th & 25th Sts, 66\"",
+      "X - Coordinate": "985555",
+      "Y - Coordinate": "179528"
+    },
+    {
+      "Sample Site": "29350",
+      "Sample Station (SS) - Location Description": "W/S 4th Ave, BTW 28th & 29th Sts, 20\"",
+      "X - Coordinate": "984246",
+      "Y - Coordinate": "179280"
+    },
+    {
+      "Sample Site": "29450",
+      "Sample Station (SS) - Location Description": "IFO 4011 E/S 7th Ave, 1st SS S/O 40th St, 12\"",
+      "X - Coordinate": "984191",
+      "Y - Coordinate": "175300"
+    },
+    {
+      "Sample Site": "29500",
+      "Sample Station (SS) - Location Description": "W/S Ridge Blvd, BTW Bay Ridge Ave & 68th St, 48\"",
+      "X - Coordinate": "976339",
+      "Y - Coordinate": "171400"
+    },
+    {
+      "Sample Site": "29550",
+      "Sample Station (SS) - Location Description": "N/S Bay Ridge Ave, 2nd SS W/O 4th Ave, IFO 335 Bay Ridge Ave 12\"",
+      "X - Coordinate": "977311",
+      "Y - Coordinate": "170753"
+    },
+    {
+      "Sample Site": "29850",
+      "Sample Station (SS) - Location Description": "IFO 1425 E/S Pennsylvania Ave, 2nd SS S/O Schroeders Ave, 20\"",
+      "X - Coordinate": "1017420",
+      "Y - Coordinate": "174983"
+    },
+    {
+      "Sample Site": "3ISL3",
+      "Sample Station (SS) - Location Description": "Wards Island, DEP Water Pollution Control Plant, BTW 1st & 2nd security gates, OPP traffic circle",
+      "X - Coordinate": "1005336",
+      "Y - Coordinate": "225499"
+    },
+    {
+      "Sample Site": "3ISL4",
+      "Sample Station (SS) - Location Description": "Randalls Island, OPP exit ramp to Qns, next to golf driving range, S/O of Police Launch Repair Shop",
+      "X - Coordinate": "1004896",
+      "Y - Coordinate": "230380"
+    },
+    {
+      "Sample Site": "30050",
+      "Sample Station (SS) - Location Description": "IFO 8 E/S Centre Market Place, 2nd SS N/O Grand St, 12\"",
+      "X - Coordinate": "984875",
+      "Y - Coordinate": "201591"
+    },
+    {
+      "Sample Site": "30150",
+      "Sample Station (SS) - Location Description": "E/S 1st Ave, 1st SS S/O E 3rd St,  OPP 49 1st Ave, 12\"",
+      "X - Coordinate": "987725",
+      "Y - Coordinate": "203176"
+    },
+    {
+      "Sample Site": "30250",
+      "Sample Station (SS) - Location Description": "OPP 280 N/S Madison St, 2nd SS W/O Montgomery St, 12\"",
+      "X - Coordinate": "988016",
+      "Y - Coordinate": "199056"
+    },
+    {
+      "Sample Site": "30350",
+      "Sample Station (SS) - Location Description": "IFO 90 E/S Pitt St, 2nd SS N/O Rivington St, 12\"",
+      "X - Coordinate": "989223",
+      "Y - Coordinate": "201145"
+    },
+    {
+      "Sample Site": "30450",
+      "Sample Station (SS) - Location Description": "N/S Water St, 2nd SS E/O Catherine Slip, 12\"",
+      "X - Coordinate": "985554",
+      "Y - Coordinate": "197941"
+    },
+    {
+      "Sample Site": "30550",
+      "Sample Station (SS) - Location Description": "E/S Water St, 1st SS S/O Maiden La (IFO Wall St Plaza), 20\"",
+      "X - Coordinate": "982568",
+      "Y - Coordinate": "196479"
+    },
+    {
+      "Sample Site": "30750",
+      "Sample Station (SS) - Location Description": "IFO 269 N/S W 140th St, 2nd SS E/O Frederick Douglass Blvd (8th Ave), 12\"",
+      "X - Coordinate": "999891",
+      "Y - Coordinate": "237824"
+    },
+    {
+      "Sample Site": "30850",
+      "Sample Station (SS) - Location Description": "IFO 230 S/S E 125th St, 2nd SS E/O 3rd Ave, 12\"",
+      "X - Coordinate": "1002385",
+      "Y - Coordinate": "231847"
+    },
+    {
+      "Sample Site": "30950",
+      "Sample Station (SS) - Location Description": "W/S South End Ave, 2nd SS N/O West Thames St, 20\"",
+      "X - Coordinate": "979476",
+      "Y - Coordinate": "197553"
+    },
+    {
+      "Sample Site": "31050",
+      "Sample Station (SS) - Location Description": "IFO 370 W/S Greenwich St, 1st SS N/O Franklin St, 20\"",
+      "X - Coordinate": "981361",
+      "Y - Coordinate": "201439"
+    },
+    {
+      "Sample Site": "31200",
+      "Sample Station (SS) - Location Description": "W/S Amsterdam Ave, BTW W 177th & W 178th Sts, IFO 2374 Amsterdam Ave, 48\"",
+      "X - Coordinate": "1002902",
+      "Y - Coordinate": "247504"
+    },
+    {
+      "Sample Site": "31350",
+      "Sample Station (SS) - Location Description": "E/S Bedford St, 1st SS S/O Grove St, IFO 90 Bedford St, 12\"",
+      "X - Coordinate": "982777",
+      "Y - Coordinate": "206084"
+    },
+    {
+      "Sample Site": "31450",
+      "Sample Station (SS) - Location Description": "IFO 22 N/S Howard St, BTW Crosby & Lafayette Sts, 12\"",
+      "X - Coordinate": "984155",
+      "Y - Coordinate": "201407"
+    },
+    {
+      "Sample Site": "31550",
+      "Sample Station (SS) - Location Description": "OPP 329 S/S W 18th St, 2nd SS E/O 9th Ave, 12\"",
+      "X - Coordinate": "983716",
+      "Y - Coordinate": "209861"
+    },
+    {
+      "Sample Site": "31650",
+      "Sample Station (SS) - Location Description": "N/S E 77th St, 2nd SS W/O 3rd Ave, 12\"",
+      "X - Coordinate": "995588",
+      "Y - Coordinate": "221044"
+    },
+    {
+      "Sample Site": "31750",
+      "Sample Station (SS) - Location Description": "IFO 427 N/S W 26th St, 2nd SS W/O 9th Ave, 12\"",
+      "X - Coordinate": "983942",
+      "Y - Coordinate": "212144"
+    },
+    {
+      "Sample Site": "31850",
+      "Sample Station (SS) - Location Description": "IFO 82 S/S Warren St, 2nd SS E/O Greenwich St, 12\"",
+      "X - Coordinate": "981300",
+      "Y - Coordinate": "199881"
+    },
+    {
+      "Sample Site": "31950",
+      "Sample Station (SS) - Location Description": "IFO 313 N/S W 47th St, 2nd SS W/O 8th Ave, 12\"",
+      "X - Coordinate": "987340",
+      "Y - Coordinate": "216552"
+    },
+    {
+      "Sample Site": "32050",
+      "Sample Station (SS) - Location Description": "IFO 49 N/S W 96th St, 2nd SS W/O Central Park West, 12\"",
+      "X - Coordinate": "993434",
+      "Y - Coordinate": "228077"
+    },
+    {
+      "Sample Site": "32150",
+      "Sample Station (SS) - Location Description": "W/S St Nicholas Ave, 1st SS N/O 174th St, IFO 1281 St. Nicholas Ave, 12\"",
+      "X - Coordinate": "1001666",
+      "Y - Coordinate": "247137"
+    },
+    {
+      "Sample Site": "32200",
+      "Sample Station (SS) - Location Description": "S/S W 150th St, BTW Convent & St Nicholas Aves, IFO 408 W 150th St 30\"",
+      "X - Coordinate": "999894",
+      "Y - Coordinate": "240792"
+    },
+    {
+      "Sample Site": "32350",
+      "Sample Station (SS) - Location Description": "IFO 116 E/S Ave C, 2nd SS N/O E 7th St, 12\"",
+      "X - Coordinate": "990189",
+      "Y - Coordinate": "203193"
+    },
+    {
+      "Sample Site": "32400",
+      "Sample Station (SS) - Location Description": "E/S 1st Ave, BTW E 29th & E 30th Sts, 48\"",
+      "X - Coordinate": "991111",
+      "Y - Coordinate": "209292"
+    },
+    {
+      "Sample Site": "32550",
+      "Sample Station (SS) - Location Description": "IFO 271 W/S Ave C, 1st SS S/O E 16th St, 20\"",
+      "X - Coordinate": "991177",
+      "Y - Coordinate": "205146"
+    },
+    {
+      "Sample Site": "32650",
+      "Sample Station (SS) - Location Description": "IFO 14 S/S W 18th St, 2nd SS W/O 5th Ave, 12\"",
+      "X - Coordinate": "986146",
+      "Y - Coordinate": "208516"
+    },
+    {
+      "Sample Site": "32750",
+      "Sample Station (SS) - Location Description": "S/S E 57th St, 2nd SS E/O 3rd Ave, 12\"",
+      "X - Coordinate": "993663",
+      "Y - Coordinate": "215984"
+    },
+    {
+      "Sample Site": "32850",
+      "Sample Station (SS) - Location Description": "IFO 138 S/S E 37th St, 2nd SS E/O Lexington Ave, 12\"",
+      "X - Coordinate": "990374",
+      "Y - Coordinate": "211810"
+    },
+    {
+      "Sample Site": "32950",
+      "Sample Station (SS) - Location Description": "W/S 1st Ave, 1st SS S/O E 25th St, IFO 421 1st Ave, 12\"",
+      "X - Coordinate": "990365",
+      "Y - Coordinate": "208138"
+    },
+    {
+      "Sample Site": "33050",
+      "Sample Station (SS) - Location Description": "N/S W 62nd St, 2nd SS E/O Amsterdam Ave, 12\"",
+      "X - Coordinate": "988401",
+      "Y - Coordinate": "220494"
+    },
+    {
+      "Sample Site": "33100",
+      "Sample Station (SS) - Location Description": "E/S 10th Ave/Harlem River Dr. (SS S/O Dyckman St on bike path in park), 30\"",
+      "X - Coordinate": "1005641",
+      "Y - Coordinate": "252089"
+    },
+    {
+      "Sample Site": "33150",
+      "Sample Station (SS) - Location Description": "IFO 200 W/S Nagle Ave, 2nd SS N/O Dyckman St, 12\"",
+      "X - Coordinate": "1005456",
+      "Y - Coordinate": "253444"
+    },
+    {
+      "Sample Site": "33250",
+      "Sample Station (SS) - Location Description": "IFO 925 W/S West End Ave, 1st SS N/O W 105th St, 12\"",
+      "X - Coordinate": "992843",
+      "Y - Coordinate": "231209"
+    },
+    {
+      "Sample Site": "33300",
+      "Sample Station (SS) - Location Description": "S/S W 125th St, BTW 7th & 8th Aves (IFO Lane Bryant Store), 48\"",
+      "X - Coordinate": "998315",
+      "Y - Coordinate": "234102"
+    },
+    {
+      "Sample Site": "33450",
+      "Sample Station (SS) - Location Description": "IFO 135 N/S W 112th St, 2nd SS W/O St Nicholas Ave, 12\"",
+      "X - Coordinate": "997082",
+      "Y - Coordinate": "230895"
+    },
+    {
+      "Sample Site": "33550",
+      "Sample Station (SS) - Location Description": "IFO 115 N/S E 67th St, 2nd SS W/O Lexington Ave, 12\"",
+      "X - Coordinate": "993886",
+      "Y - Coordinate": "218935"
+    },
+    {
+      "Sample Site": "33600",
+      "Sample Station (SS) - Location Description": "W/S 2nd Ave, BTW E 42nd St & 43rd Sts, IFO 801 2nd Ave, 48\"",
+      "X - Coordinate": "991963",
+      "Y - Coordinate": "212570"
+    },
+    {
+      "Sample Site": "33700",
+      "Sample Station (SS) - Location Description": "IFO 69 W/S St Nicholas Ave, BTW W 113th & W 114th Sts, 48\"",
+      "X - Coordinate": "997356",
+      "Y - Coordinate": "231253"
+    },
+    {
+      "Sample Site": "33850",
+      "Sample Station (SS) - Location Description": "IFO 155 N/S E 85th St, 1st SS E/O Lexington Ave, 12\"",
+      "X - Coordinate": "996612",
+      "Y - Coordinate": "222939"
+    },
+    {
+      "Sample Site": "33950",
+      "Sample Station (SS) - Location Description": "N/S E 104th St, 2nd SS E/O 3rd Ave, 12\"",
+      "X - Coordinate": "999690",
+      "Y - Coordinate": "227009"
+    },
+    {
+      "Sample Site": "34050",
+      "Sample Station (SS) - Location Description": "IFO 611 N/S W 181st St, 1st SS W/O St Nicholas Ave, 12\"",
+      "X - Coordinate": "1002425",
+      "Y - Coordinate": "248841"
+    },
+    {
+      "Sample Site": "34150",
+      "Sample Station (SS) - Location Description": "N/S W 151st St, 2nd SS W/O Amsterdam Ave, IFO 529 151st St, 12\"",
+      "X - Coordinate": "999120",
+      "Y - Coordinate": "241564"
+    },
+    {
+      "Sample Site": "34200",
+      "Sample Station (SS) - Location Description": "S/S W 97th St, BTW Columbus & Amsterdam Ave, 36\"",
+      "X - Coordinate": "993173",
+      "Y - Coordinate": "228471"
+    },
+    {
+      "Sample Site": "34300",
+      "Sample Station (SS) - Location Description": "S/S W 40th St, BTW Broadway & 7th Ave, 48\"",
+      "X - Coordinate": "987649",
+      "Y - Coordinate": "214195"
+    },
+    {
+      "Sample Site": "34350",
+      "Sample Station (SS) - Location Description": "E/S 6th Ave, BTW W 37th & W 38th Sts, IFO 1016 6th Ave, 20\"",
+      "X - Coordinate": "988136",
+      "Y - Coordinate": "213267"
+    },
+    {
+      "Sample Site": "34550",
+      "Sample Station (SS) - Location Description": "IFO 133 N/S 128th St, 2nd SS W/O Lenox Ave, 12\"",
+      "X - Coordinate": "999264",
+      "Y - Coordinate": "234562"
+    },
+    {
+      "Sample Site": "34650",
+      "Sample Station (SS) - Location Description": "IFO 1066 E/S St Nicholas Ave, BTW W 163rd & W 164th Sts, 12\"",
+      "X - Coordinate": "1000866",
+      "Y - Coordinate": "244313"
+    },
+    {
+      "Sample Site": "34700",
+      "Sample Station (SS) - Location Description": "S/S W 165th St, BTW Edgecombe & Amsterdam Aves, 30\"",
+      "X - Coordinate": "1001663",
+      "Y - Coordinate": "244320"
+    },
+    {
+      "Sample Site": "34850",
+      "Sample Station (SS) - Location Description": "OPP 40 N/S W 53rd St, 2nd SS E/O 6th Ave, IFO MOMA 12\"",
+      "X - Coordinate": "990391",
+      "Y - Coordinate": "216650"
+    },
+    {
+      "Sample Site": "34950",
+      "Sample Station (SS) - Location Description": "IFO 686 S/S Academy St, 2nd SS W/O Broadway St, 12\"",
+      "X - Coordinate": "1004822",
+      "Y - Coordinate": "255197"
+    },
+    {
+      "Sample Site": "35000",
+      "Sample Station (SS) - Location Description": "S/S W 93rd St, btw Columbus Ave & Central Park West, 30\"",
+      "X - Coordinate": "993412",
+      "Y - Coordinate": "227105"
+    },
+    {
+      "Sample Site": "35050",
+      "Sample Station (SS) - Location Description": "IFO 565 N/S W 125th St, 1st SS W/O Old Broadway, 20\"",
+      "X - Coordinate": "995934",
+      "Y - Coordinate": "236325"
+    },
+    {
+      "Sample Site": "35100",
+      "Sample Station (SS) - Location Description": "E/S Central Park West, BTW W 93rd & W 94th Sts, 30\"",
+      "X - Coordinate": "993736",
+      "Y - Coordinate": "227094"
+    },
+    {
+      "Sample Site": "35150",
+      "Sample Station (SS) - Location Description": "IFO 21 E/S Bennett Ave, 2nd SS N/O W 181st St, 20\"",
+      "X - Coordinate": "1001925",
+      "Y - Coordinate": "249470"
+    },
+    {
+      "Sample Site": "35200",
+      "Sample Station (SS) - Location Description": "S/S W 65th St, BTW Broadway & Central Park West, 36\"",
+      "X - Coordinate": "989646",
+      "Y - Coordinate": "220635"
+    },
+    {
+      "Sample Site": "35350",
+      "Sample Station (SS) - Location Description": "IFO 541 N/S W 207th (Emerson) St, 1st SS E/O Sherman Ave, 12\"",
+      "X - Coordinate": "1006457",
+      "Y - Coordinate": "254634"
+    },
+    {
+      "Sample Site": "35450",
+      "Sample Station (SS) - Location Description": "IFO 500 N/S E 76th St, 2nd SS E/O York Ave, 12\"",
+      "X - Coordinate": "997934",
+      "Y - Coordinate": "219442"
+    },
+    {
+      "Sample Site": "35550",
+      "Sample Station (SS) - Location Description": "N/S Washington Square S, 1st SS W/O Washington Square E (OPP 70 Washington Square E), 12\"",
+      "X - Coordinate": "985154",
+      "Y - Coordinate": "205130"
+    },
+    {
+      "Sample Site": "35650",
+      "Sample Station (SS) - Location Description": "N/S W 25th St, 2nd SS W/O Broadway,  OPP 28 W 25th St 12\"",
+      "X - Coordinate": "986871",
+      "Y - Coordinate": "210227"
+    },
+    {
+      "Sample Site": "35750",
+      "Sample Station (SS) - Location Description": "N/S W 83rd St, 2nd SS W/O Central Park West, 12\"",
+      "X - Coordinate": "992124",
+      "Y - Coordinate": "224820"
+    },
+    {
+      "Sample Site": "35800",
+      "Sample Station (SS) - Location Description": "N/S E 85th St, BTW 5th & Madison Aves,  OPP 16 E 85th St, 36\"",
+      "X - Coordinate": "995459",
+      "Y - Coordinate": "223581"
+    },
+    {
+      "Sample Site": "35900",
+      "Sample Station (SS) - Location Description": "IFO 168 W/S 5th Ave, BTW E 21st & E 22nd Sts, 48\"",
+      "X - Coordinate": "986915",
+      "Y - Coordinate": "209114"
+    },
+    {
+      "Sample Site": "36000",
+      "Sample Station (SS) - Location Description": "S/S E 68th St, BTW 5th & Madison Aves, 36\"",
+      "X - Coordinate": "993046",
+      "Y - Coordinate": "219645"
+    },
+    {
+      "Sample Site": "36100",
+      "Sample Station (SS) - Location Description": "IFO 1212 E/S 6th Ave, BTW W 47th & W 48th Sts, 20\"",
+      "X - Coordinate": "989398",
+      "Y - Coordinate": "215557"
+    },
+    {
+      "Sample Site": "36200",
+      "Sample Station (SS) - Location Description": "W/S 5th Ave, BTW W 8th St & Washington Square N, 48\"",
+      "X - Coordinate": "985124",
+      "Y - Coordinate": "205874"
+    },
+    {
+      "Sample Site": "36350",
+      "Sample Station (SS) - Location Description": "IFO 165 N/S E 112th St, 1st SS E/O Lexington Ave, 12\"",
+      "X - Coordinate": "1000097",
+      "Y - Coordinate": "229237"
+    },
+    {
+      "Sample Site": "36500",
+      "Sample Station (SS) - Location Description": "E/S Broadway, BTW Howard & Grand Sts, 30\"",
+      "X - Coordinate": "983915",
+      "Y - Coordinate": "201605"
+    },
+    {
+      "Sample Site": "36600",
+      "Sample Station (SS) - Location Description": "IFO 87 E/S Bowery, BTW Hester & Canal Sts, 36\"",
+      "X - Coordinate": "985508",
+      "Y - Coordinate": "200478"
+    },
+    {
+      "Sample Site": "36700",
+      "Sample Station (SS) - Location Description": "S/S South St, BTW Rutgers Slip & Jefferson Sts, 30\"",
+      "X - Coordinate": "987453",
+      "Y - Coordinate": "197979"
+    },
+    {
+      "Sample Site": "36950",
+      "Sample Station (SS) - Location Description": "W/S Main St. Roosevelt Island (north of bridge) - 2nd SS N/O FDNY SOC circle",
+      "X - Coordinate": "999939",
+      "Y - Coordinate": "219046"
+    },
+    {
+      "Sample Site": "37300",
+      "Sample Station (SS) - Location Description": "IFO 3401 W/S Broadway, BTW W 138th & W 139th Sts, 36\"",
+      "X - Coordinate": "997037",
+      "Y - Coordinate": "238820"
+    },
+    {
+      "Sample Site": "37450",
+      "Sample Station (SS) - Location Description": "SS -OPP 532 N/S W 111st St, 2nd SS W/O Amsterdam Ave, 12\"",
+      "X - Coordinate": "993850",
+      "Y - Coordinate": "232387"
+    },
+    {
+      "Sample Site": "37950",
+      "Sample Station (SS) - Location Description": "IFO 325 N/S E 12th St, 2nd SS E/O 2nd Ave, 12\"",
+      "X - Coordinate": "988485",
+      "Y - Coordinate": "205450"
+    },
+    {
+      "Sample Site": "38150",
+      "Sample Station (SS) - Location Description": "IFO 121 N/S W 72nd St, 2nd SS W/O Columbus Ave, 12\"",
+      "X - Coordinate": "989901",
+      "Y - Coordinate": "222686"
+    },
+    {
+      "Sample Site": "38250",
+      "Sample Station (SS) - Location Description": "IFO 309 N/S E 87th St, 2nd SS W/O 1st Ave, 12\"",
+      "X - Coordinate": "997994",
+      "Y - Coordinate": "222826"
+    },
+    {
+      "Sample Site": "38300",
+      "Sample Station (SS) - Location Description": "E/S Amsterdam Ave, BTW W 179th & W 180th Sts (IFO DEP Pump Station), 36\"",
+      "X - Coordinate": "1003227",
+      "Y - Coordinate": "247967"
+    },
+    {
+      "Sample Site": "38650",
+      "Sample Station (SS) - Location Description": "OPP 238 N/S W 112th St, 2nd SS E/O 8th Ave (Fredrick Douglass), 12\"",
+      "X - Coordinate": "996500",
+      "Y - Coordinate": "231218"
+    },
+    {
+      "Sample Site": "39200",
+      "Sample Station (SS) - Location Description": "E/S Amsterdam Ave, BTW W 61st & W 62nd Sts, 48\"",
+      "X - Coordinate": "988030",
+      "Y - Coordinate": "220500"
+    },
+    {
+      "Sample Site": "39400",
+      "Sample Station (SS) - Location Description": "S/S W 62nd St, BTW Columbus Ave & Broadway, 48\"",
+      "X - Coordinate": "989043",
+      "Y - Coordinate": "220395"
+    },
+    {
+      "Sample Site": "39550",
+      "Sample Station (SS) - Location Description": "W/S Park Ave, 1st SS S/O E 95th St, 12\"",
+      "X - Coordinate": "997170",
+      "Y - Coordinate": "225580"
+    },
+    {
+      "Sample Site": "39550",
+      "Sample Station (SS) - Location Description": "W/S Park Ave, 1st SS S/O E 95th St, 12\"",
+      "X - Coordinate": "997172",
+      "Y - Coordinate": "225580"
+    },
+    {
+      "Sample Site": "39650",
+      "Sample Station (SS) - Location Description": "IFO 229 N/S E 49th St, 2nd SS W/O 2nd Ave, 12\"",
+      "X - Coordinate": "992565",
+      "Y - Coordinate": "214253"
+    },
+    {
+      "Sample Site": "39750",
+      "Sample Station (SS) - Location Description": "IFO 321 N/S E 71st St, 2nd SS W/O 1st Ave, 12\"",
+      "X - Coordinate": "995942",
+      "Y - Coordinate": "218935"
+    },
+    {
+      "Sample Site": "39800",
+      "Sample Station (SS) - Location Description": "W/S Broadway, BTW W 76th & W 77th Sts, 36\"",
+      "X - Coordinate": "989480",
+      "Y - Coordinate": "224221"
+    },
+    {
+      "Sample Site": "39950",
+      "Sample Station (SS) - Location Description": "IFO 601 W/S West End Ave, 1st SS N/O W 89th St, 12\"",
+      "X - Coordinate": "990776",
+      "Y - Coordinate": "227477"
+    },
+    {
+      "Sample Site": "3SC26",
+      "Sample Station (SS) - Location Description": "Shaft 26 of New Croton Aqueduct, 179th St Pumping Station.",
+      "X - Coordinate": "1003134",
+      "Y - Coordinate": "247853"
+    },
+    {
+      "Sample Site": "4ISL5",
+      "Sample Station (SS) - Location Description": "Rikers Island, traffic island OPP James A. Thomas Ctr, 14-14 Hazen St",
+      "X - Coordinate": "1015316",
+      "Y - Coordinate": "229741"
+    },
+    {
+      "Sample Site": "40150",
+      "Sample Station (SS) - Location Description": "N/S 27th Ave, 1st SS E/O 2nd St, IFO 2-07 27th Ave, 12\"",
+      "X - Coordinate": "1002251",
+      "Y - Coordinate": "221752"
+    },
+    {
+      "Sample Site": "40200",
+      "Sample Station (SS) - Location Description": "S/S 19th Ave, BTW 41st & Steinway Sts, IFO 40-14 19th Ave, 60\"",
+      "X - Coordinate": "1012206",
+      "Y - Coordinate": "222705"
+    },
+    {
+      "Sample Site": "40250",
+      "Sample Station (SS) - Location Description": "IFO 22-26 W/S Steinway St, 2nd SS S/O Ditmars Blvd, 12\"",
+      "X - Coordinate": "1010037",
+      "Y - Coordinate": "220644"
+    },
+    {
+      "Sample Site": "40300",
+      "Sample Station (SS) - Location Description": "IFO 12 - 23 SE/S Jackson Ave, BTW 48th & 49th Aves, 72\"",
+      "X - Coordinate": "998105",
+      "Y - Coordinate": "210271"
+    },
+    {
+      "Sample Site": "40350",
+      "Sample Station (SS) - Location Description": "N/S 41st Ave, 2nd SS W/O 21st St, 12\"",
+      "X - Coordinate": "1000003",
+      "Y - Coordinate": "214134"
+    },
+    {
+      "Sample Site": "40450",
+      "Sample Station (SS) - Location Description": "OPP 33-02 N/S 48th Ave, 1st SS E/O 33rd St, 12\"",
+      "X - Coordinate": "1003047",
+      "Y - Coordinate": "209194"
+    },
+    {
+      "Sample Site": "40550",
+      "Sample Station (SS) - Location Description": "W/S 61st (Bush) St, 1st SS S/O 47th Ave, 12\"",
+      "X - Coordinate": "1011000",
+      "Y - Coordinate": "208696"
+    },
+    {
+      "Sample Site": "40600",
+      "Sample Station (SS) - Location Description": "E/S 89th St, BTW Northern Blvd & 32nd Ave, 72\"",
+      "X - Coordinate": "1017800",
+      "Y - Coordinate": "215038"
+    },
+    {
+      "Sample Site": "40650",
+      "Sample Station (SS) - Location Description": "IFO 30-12 W/S 94th St, 1st SS S/O 30th Ave, 12\"",
+      "X - Coordinate": "1018876",
+      "Y - Coordinate": "216530"
+    },
+    {
+      "Sample Site": "40750",
+      "Sample Station (SS) - Location Description": "N/S Northern Blvd, 1st SS W/O 78th St, 12\"",
+      "X - Coordinate": "1014894",
+      "Y - Coordinate": "214445"
+    },
+    {
+      "Sample Site": "40800",
+      "Sample Station (SS) - Location Description": "E/S 62nd St, BTW 37th Ave & Broadway, 48\"",
+      "X - Coordinate": "1011829",
+      "Y - Coordinate": "212286"
+    },
+    {
+      "Sample Site": "40850",
+      "Sample Station (SS) - Location Description": "IFO 4205 E/S 77th St, 1st SS S/O Woodside Ave, 12\"",
+      "X - Coordinate": "1015318",
+      "Y - Coordinate": "210104"
+    },
+    {
+      "Sample Site": "40950",
+      "Sample Station (SS) - Location Description": "W/S 94th St, 2nd SS S/O 41st Rd , Case St, 12\"",
+      "X - Coordinate": "1019803",
+      "Y - Coordinate": "210877"
+    },
+    {
+      "Sample Site": "41050",
+      "Sample Station (SS) - Location Description": "IFO 86-31 W/S 57th Ave, 2nd SS S/O Seabury Ave, 12\"",
+      "X - Coordinate": "1018708",
+      "Y - Coordinate": "206370"
+    },
+    {
+      "Sample Site": "41100",
+      "Sample Station (SS) - Location Description": "IFO 94-03 S/S Alstyne Ave, BTW Junction Blvd & 94th St, 48\"",
+      "X - Coordinate": "1020261",
+      "Y - Coordinate": "209842"
+    },
+    {
+      "Sample Site": "41150",
+      "Sample Station (SS) - Location Description": "OPP 110-08 W/S Colonial Ave, 2nd SS S/O Horace Harding Expwy, 12\"",
+      "X - Coordinate": "1026226",
+      "Y - Coordinate": "207866"
+    },
+    {
+      "Sample Site": "41250",
+      "Sample Station (SS) - Location Description": "SW/S LIE (service Rd), 1st SS E/O 71st St, 12\"",
+      "X - Coordinate": "1014728",
+      "Y - Coordinate": "203714"
+    },
+    {
+      "Sample Site": "41300",
+      "Sample Station (SS) - Location Description": "S/S Cypress Ave, BTW Dekalb Ave & Stockholm St, 60\"",
+      "X - Coordinate": "1007301",
+      "Y - Coordinate": "196633"
+    },
+    {
+      "Sample Site": "41350",
+      "Sample Station (SS) - Location Description": "W/S Menahan St, 1st SS N/O Onderdonk Ave, 12\"",
+      "X - Coordinate": "1009308",
+      "Y - Coordinate": "196373"
+    },
+    {
+      "Sample Site": "41450",
+      "Sample Station (SS) - Location Description": "OPP 18-20 W/S Decatur St, 2nd SS S/O Forest Ave, 12\"",
+      "X - Coordinate": "1012510",
+      "Y - Coordinate": "193596"
+    },
+    {
+      "Sample Site": "41550",
+      "Sample Station (SS) - Location Description": "IFO 98-05 N/S 63rd Rd, 1st SS E/O 98th St, 12\"",
+      "X - Coordinate": "1023300",
+      "Y - Coordinate": "205981"
+    },
+    {
+      "Sample Site": "41600",
+      "Sample Station (SS) - Location Description": "IFO 93-29 N/S Queens Blvd, BTW 62nd Dr & 62nd Ave, 72\"",
+      "X - Coordinate": "1021543",
+      "Y - Coordinate": "205810"
+    },
+    {
+      "Sample Site": "41650",
+      "Sample Station (SS) - Location Description": "IFO 106-15 N/S Queens Blvd (service Rd), 2nd SS E/O Yellowstone Blvd, 20\"",
+      "X - Coordinate": "1026792",
+      "Y - Coordinate": "202666"
+    },
+    {
+      "Sample Site": "41750",
+      "Sample Station (SS) - Location Description": "OPP 104-41 SW/S Ditmars Blvd, BTW 24th Rd & 25th Ave, 12\"",
+      "X - Coordinate": "1021435",
+      "Y - Coordinate": "218787"
+    },
+    {
+      "Sample Site": "41850",
+      "Sample Station (SS) - Location Description": "IFO 67-02 W/S Bell Blvd, 1st SS S/O 67th Ave, 12\"",
+      "X - Coordinate": "1050755",
+      "Y - Coordinate": "210470"
+    },
+    {
+      "Sample Site": "41900",
+      "Sample Station (SS) - Location Description": "W/S Fresh Meadow La, Corner N/O Booth Memorial Ave, 20\"",
+      "X - Coordinate": "1040557",
+      "Y - Coordinate": "209716"
+    },
+    {
+      "Sample Site": "41950",
+      "Sample Station (SS) - Location Description": "IFO 170-05 N/S 45th Ave, 1st SS E/O 170th St, 12\"",
+      "X - Coordinate": "1040549",
+      "Y - Coordinate": "214712"
+    },
+    {
+      "Sample Site": "42100",
+      "Sample Station (SS) - Location Description": "S/S Metropolitan Ave, 1st SS E/O 80th St, 48\"",
+      "X - Coordinate": "1019954",
+      "Y - Coordinate": "199151"
+    },
+    {
+      "Sample Site": "42150",
+      "Sample Station (SS) - Location Description": "IFO 68-78 W/S 76th St, 1st N/O 69th Rd, 12\"",
+      "X - Coordinate": "1018772",
+      "Y - Coordinate": "197537"
+    },
+    {
+      "Sample Site": "42300",
+      "Sample Station (SS) - Location Description": "S/S 48th Ave, BTW 42nd & 43rd Sts, 72\"",
+      "X - Coordinate": "1005648",
+      "Y - Coordinate": "208750"
+    },
+    {
+      "Sample Site": "42350",
+      "Sample Station (SS) - Location Description": "IFO 41-18 W/S 39th St, 2nd SS S/O Skillman Ave, 12\"",
+      "X - Coordinate": "1004860",
+      "Y - Coordinate": "211464"
+    },
+    {
+      "Sample Site": "42700",
+      "Sample Station (SS) - Location Description": "OPP 64-65 W/S 210th St, N/O 67th Ave, 48\"",
+      "X - Coordinate": "1049282",
+      "Y - Coordinate": "209900"
+    },
+    {
+      "Sample Site": "42750",
+      "Sample Station (SS) - Location Description": "IFO 64-50A W/S 188th St, 2nd SS S/O 64th Ave, 20\"",
+      "X - Coordinate": "1043933",
+      "Y - Coordinate": "207580"
+    },
+    {
+      "Sample Site": "42850",
+      "Sample Station (SS) - Location Description": "IFO 82-28 W/S Parsons Blvd, BTW Goethals Ave & Village Rd",
+      "X - Coordinate": "1037347",
+      "Y - Coordinate": "200782"
+    },
+    {
+      "Sample Site": "42950",
+      "Sample Station (SS) - Location Description": "IFO 80-56 W/S 193rd St, 1st SS N/O 81st Ave, 12\"",
+      "X - Coordinate": "1046079",
+      "Y - Coordinate": "204823"
+    },
+    {
+      "Sample Site": "43050",
+      "Sample Station (SS) - Location Description": "S/S Park Lane S, 1st SS W/O 102nd St, 20\"",
+      "X - Coordinate": "1026611",
+      "Y - Coordinate": "193874"
+    },
+    {
+      "Sample Site": "43150",
+      "Sample Station (SS) - Location Description": "W/S 88th St, 2nd SS S/O 149th Ave, 12\"",
+      "X - Coordinate": "1026601",
+      "Y - Coordinate": "183111"
+    },
+    {
+      "Sample Site": "43250",
+      "Sample Station (SS) - Location Description": "IFO 87-48 W/S 78th St, 1st SS N/O 88th Ave, 12\"",
+      "X - Coordinate": "1022120",
+      "Y - Coordinate": "190652"
+    },
+    {
+      "Sample Site": "43550",
+      "Sample Station (SS) - Location Description": "W/S 125th St, 1st SS S/O 15th Ave, 20\"",
+      "X - Coordinate": "1027699",
+      "Y - Coordinate": "225142"
+    },
+    {
+      "Sample Site": "43600",
+      "Sample Station (SS) - Location Description": "E/S Union St, BTW Northern Blvd & 35th Ave, 72\"",
+      "X - Coordinate": "1031944",
+      "Y - Coordinate": "218059"
+    },
+    {
+      "Sample Site": "43650",
+      "Sample Station (SS) - Location Description": "E/S Whitestone Expy (service Rd), 2nd SS S/O Downing St, 12\"",
+      "X - Coordinate": "1029519",
+      "Y - Coordinate": "219268"
+    },
+    {
+      "Sample Site": "43750",
+      "Sample Station (SS) - Location Description": "N/S 20th Ave, 2nd SS W/O Whitestone Expy, 12\"",
+      "X - Coordinate": "1031507",
+      "Y - Coordinate": "224135"
+    },
+    {
+      "Sample Site": "43900",
+      "Sample Station (SS) - Location Description": "N/S 39th Ave, BTW 215th Pl & 216th St, IFO 215-37 39th Ave 24\"",
+      "X - Coordinate": "1048519",
+      "Y - Coordinate": "218452"
+    },
+    {
+      "Sample Site": "43950",
+      "Sample Station (SS) - Location Description": "N/S 26th Ave, BTW 210th Pl & 211st St (IFO Sony Theatres), 12\"",
+      "X - Coordinate": "1045509",
+      "Y - Coordinate": "222777"
+    },
+    {
+      "Sample Site": "44150",
+      "Sample Station (SS) - Location Description": "IFO 20-44 W/S 21st St, 2nd SS N/O 21st Ave, 20\"",
+      "X - Coordinate": "1008141",
+      "Y - Coordinate": "224609"
+    },
+    {
+      "Sample Site": "44250",
+      "Sample Station (SS) - Location Description": "IFO 50-33 N/S Broadway, 2nd SS E/O 49th St, 12\"",
+      "X - Coordinate": "1009146",
+      "Y - Coordinate": "214314"
+    },
+    {
+      "Sample Site": "44350",
+      "Sample Station (SS) - Location Description": "IFO 21-55 N/S 34th Ave, 1st SS W/O 24th St, 12\"",
+      "X - Coordinate": "1002964",
+      "Y - Coordinate": "216964"
+    },
+    {
+      "Sample Site": "44450",
+      "Sample Station (SS) - Location Description": "IFO 223-03 N/S Manor Rd, 2nd SS W/O 229th St, 12\"",
+      "X - Coordinate": "1055329",
+      "Y - Coordinate": "206333"
+    },
+    {
+      "Sample Site": "44550",
+      "Sample Station (SS) - Location Description": "N/S 17th Ave, 1st SS E/O 201st St, 12\"",
+      "X - Coordinate": "1041759",
+      "Y - Coordinate": "224449"
+    },
+    {
+      "Sample Site": "44700",
+      "Sample Station (SS) - Location Description": "N/S Jewel Ave, BTW 172nd & 173rd Sts, 60\"",
+      "X - Coordinate": "1040470",
+      "Y - Coordinate": "205827"
+    },
+    {
+      "Sample Site": "44750",
+      "Sample Station (SS) - Location Description": "IFO 67-02 W/S Parsons Blvd, 2nd SS N/O Jewel Ave, 12\"",
+      "X - Coordinate": "1036698",
+      "Y - Coordinate": "206954"
+    },
+    {
+      "Sample Site": "44950",
+      "Sample Station (SS) - Location Description": "W/S Selfridge St, 1st SS N/O Olcott St, 12\"",
+      "X - Coordinate": "1023963",
+      "Y - Coordinate": "199221"
+    },
+    {
+      "Sample Site": "45000",
+      "Sample Station (SS) - Location Description": "W/S Douglaston Pkwy, BTW 67th & 68th Aves, 48\"",
+      "X - Coordinate": "1056313",
+      "Y - Coordinate": "213038"
+    },
+    {
+      "Sample Site": "45050",
+      "Sample Station (SS) - Location Description": "IFO 253-38 S/S 61st Ave, 1st SS W/O 255th St, 20\"",
+      "X - Coordinate": "1060423",
+      "Y - Coordinate": "215516"
+    },
+    {
+      "Sample Site": "45250",
+      "Sample Station (SS) - Location Description": "E/S Beach 58th St, 2nd SS N/O Beach Channel Dr, 12\"",
+      "X - Coordinate": "1043088",
+      "Y - Coordinate": "156447"
+    },
+    {
+      "Sample Site": "45650",
+      "Sample Station (SS) - Location Description": "IFO 107-02 W/S 109th St, 1st SS S/O 107th Ave, 12\"",
+      "X - Coordinate": "1030884",
+      "Y - Coordinate": "187685"
+    },
+    {
+      "Sample Site": "45700",
+      "Sample Station (SS) - Location Description": "E/S Cross Bay Blvd, BTW 156th Ave & Belt Pkwy, 48\"",
+      "X - Coordinate": "1028340",
+      "Y - Coordinate": "181542"
+    },
+    {
+      "Sample Site": "45750",
+      "Sample Station (SS) - Location Description": "N/S 161st Ave, 2nd SS W/O 83rd St, 12\"",
+      "X - Coordinate": "1026111",
+      "Y - Coordinate": "177745"
+    },
+    {
+      "Sample Site": "45850",
+      "Sample Station (SS) - Location Description": "N/S Sutter Ave, 1st SS E/O 91st St,  IFO 91-01 Sutter Ave, 12\"",
+      "X - Coordinate": "1026984",
+      "Y - Coordinate": "185810"
+    },
+    {
+      "Sample Site": "46100",
+      "Sample Station (SS) - Location Description": "IFO 691 S/S Empire Ave, BTW Virginia St & Harris St, 12\" (branch from 48\" into regulator)",
+      "X - Coordinate": "1055532",
+      "Y - Coordinate": "160561"
+    },
+    {
+      "Sample Site": "46150",
+      "Sample Station (SS) - Location Description": "IFO 20-23 S/S Seagirt Blvd, 2nd SS W/O Beach 20th St, 12\"",
+      "X - Coordinate": "1052304",
+      "Y - Coordinate": "156146"
+    },
+    {
+      "Sample Site": "46250",
+      "Sample Station (SS) - Location Description": "S/S Beach Channel Dr, 2nd SS E/O Beach 126th St, 12\"",
+      "X - Coordinate": "1026511",
+      "Y - Coordinate": "151266"
+    },
+    {
+      "Sample Site": "46350",
+      "Sample Station (SS) - Location Description": "S/S Astoria Blvd, 1st SS W/O 110th St, 12\"",
+      "X - Coordinate": "1022904",
+      "Y - Coordinate": "216238"
+    },
+    {
+      "Sample Site": "46450",
+      "Sample Station (SS) - Location Description": "IFO 150-03 N/S Northern Blvd, 1st SS E/O 150th St, 12\"",
+      "X - Coordinate": "1035671",
+      "Y - Coordinate": "218150"
+    },
+    {
+      "Sample Site": "46850",
+      "Sample Station (SS) - Location Description": "IFO 63-01 NW/S Eliot Ave, BTW 63rd & 64th Sts, 12\"",
+      "X - Coordinate": "1012186",
+      "Y - Coordinate": "200020"
+    },
+    {
+      "Sample Site": "46950",
+      "Sample Station (SS) - Location Description": "IFO 118-40 S/S Metropolitan Ave, 2nd SS E/O 118th St IFO 118-18",
+      "X - Coordinate": "1030452",
+      "Y - Coordinate": "196724"
+    },
+    {
+      "Sample Site": "47150",
+      "Sample Station (SS) - Location Description": "IFO 147-19 N/S 7th Ave, 2nd SS W/O 149th St, 12\"",
+      "X - Coordinate": "1033893",
+      "Y - Coordinate": "228531"
+    },
+    {
+      "Sample Site": "47500",
+      "Sample Station (SS) - Location Description": "IFO 20-10 W/S Cross Bay Blvd, BTW W 20th & W22nd Rd, 36\"",
+      "X - Coordinate": "1033971",
+      "Y - Coordinate": "157361"
+    },
+    {
+      "Sample Site": "47550",
+      "Sample Station (SS) - Location Description": "E/S Beach 105th St, 2nd SS N/O Shore Front Pkwy, 12\"",
+      "X - Coordinate": "1032730",
+      "Y - Coordinate": "151392"
+    },
+    {
+      "Sample Site": "47650",
+      "Sample Station (SS) - Location Description": "N/S Rockaway Point Blvd, 2nd SS W/O Beach 199th St, 20\" (end of divided h'way)",
+      "X - Coordinate": "1009613",
+      "Y - Coordinate": "143617"
+    },
+    {
+      "Sample Site": "47750",
+      "Sample Station (SS) - Location Description": "IFO 80 - 29 E/S Little Neck Pkwy, 2nd SS N/O 81st Ave, 20\"",
+      "X - Coordinate": "1062706",
+      "Y - Coordinate": "209940"
+    },
+    {
+      "Sample Site": "47850",
+      "Sample Station (SS) - Location Description": "IFO 246-35 N/S Van Zandt Ave, 1st SS W/O 248th St, 12\"",
+      "X - Coordinate": "1057118",
+      "Y - Coordinate": "217216"
+    },
+    {
+      "Sample Site": "48600",
+      "Sample Station (SS) - Location Description": "W/S Rockaway Blvd, BTW S Conduit Ave & 157th St, 48\"",
+      "X - Coordinate": "1045300",
+      "Y - Coordinate": "182156"
+    },
+    {
+      "Sample Site": "48700",
+      "Sample Station (SS) - Location Description": "IFO 160-05 N/S Cross Island Pkwy (service Rd), BTW 160th & 161st Sts, 20\"",
+      "X - Coordinate": "1039015",
+      "Y - Coordinate": "225892"
+    },
+    {
+      "Sample Site": "49200",
+      "Sample Station (SS) - Location Description": "S/S Jewel Ave, BTW Main St & 141st Sts, 72\"",
+      "X - Coordinate": "1033124",
+      "Y - Coordinate": "205328"
+    },
+    {
+      "Sample Site": "50050",
+      "Sample Station (SS) - Location Description": "N/S Hylan Blvd, 2nd SS W/O Edgewater St, 12\"",
+      "X - Coordinate": "966574",
+      "Y - Coordinate": "163485"
+    },
+    {
+      "Sample Site": "50200",
+      "Sample Station (SS) - Location Description": "IFO 93 N/S Austin Place, BTW Victory Blvd & Ward Ave, 84\"",
+      "X - Coordinate": "960455",
+      "Y - Coordinate": "169298"
+    },
+    {
+      "Sample Site": "50250",
+      "Sample Station (SS) - Location Description": "IFO 937 N/S Victory Blvd, 2nd SS E/O Highland Ave, 20\"",
+      "X - Coordinate": "957294",
+      "Y - Coordinate": "165843"
+    },
+    {
+      "Sample Site": "50300",
+      "Sample Station (SS) - Location Description": "W/S Clove Rd, 1st S/O of Genesee St, SI, 72\" (formerly site 00023)",
+      "X - Coordinate": "955759",
+      "Y - Coordinate": "163383"
+    },
+    {
+      "Sample Site": "50600",
+      "Sample Station (SS) - Location Description": "N/S Victory Blvd, BTW Pike St & W/O Westervelt Ave, IFO 199 Victory Blvd, 20\"",
+      "X - Coordinate": "961300",
+      "Y - Coordinate": "171090"
+    },
+    {
+      "Sample Site": "50650",
+      "Sample Station (SS) - Location Description": "E/S York Ave, 1st SS N/O Pauw St, 8\"",
+      "X - Coordinate": "959871",
+      "Y - Coordinate": "172693"
+    },
+    {
+      "Sample Site": "50750",
+      "Sample Station (SS) - Location Description": "E/S Woodhull Ave, 1st SS S/O Albourne Ave, 8\"",
+      "X - Coordinate": "929606",
+      "Y - Coordinate": "132752"
+    },
+    {
+      "Sample Site": "50850",
+      "Sample Station (SS) - Location Description": "IFO 512 W/S Arlene St,1st SS N/O Dawson Ct, 12\"",
+      "X - Coordinate": "938156",
+      "Y - Coordinate": "159775"
+    },
+    {
+      "Sample Site": "51050",
+      "Sample Station (SS) - Location Description": "IFO 163 E/S Tysens La, 2nd SS N/O Coverly St, 12\"",
+      "X - Coordinate": "948843",
+      "Y - Coordinate": "147129"
+    },
+    {
+      "Sample Site": "51100",
+      "Sample Station (SS) - Location Description": "IFO 1759 NW/S Hylan Blvd, BTW Seaview & Liberty Aves, 48\"",
+      "X - Coordinate": "958541",
+      "Y - Coordinate": "152868"
+    },
+    {
+      "Sample Site": "51150",
+      "Sample Station (SS) - Location Description": "IFO 650 S/S Tysens La, 2nd SS E/O Falcon Ave, 12\"",
+      "X - Coordinate": "952718",
+      "Y - Coordinate": "144073"
+    },
+    {
+      "Sample Site": "51250",
+      "Sample Station (SS) - Location Description": "N/S Clarke Ave, 2nd SS W/O Amber St, 8\"",
+      "X - Coordinate": "945963",
+      "Y - Coordinate": "145822"
+    },
+    {
+      "Sample Site": "51350",
+      "Sample Station (SS) - Location Description": "W/S Clove Rd, 1st SS S/O Tyler Ave (also 1st S/O Broadway), 12\"",
+      "X - Coordinate": "952915",
+      "Y - Coordinate": "166107"
+    },
+    {
+      "Sample Site": "51450",
+      "Sample Station (SS) - Location Description": "IFO 119 E/S Justin Ave, BTW Hooper & O'Gorman Aves, 12\"",
+      "X - Coordinate": "946956",
+      "Y - Coordinate": "141680"
+    },
+    {
+      "Sample Site": "51550",
+      "Sample Station (SS) - Location Description": "W/S Huguenot Ave, 1st SS S/O Sinclair Ave, 12\"",
+      "X - Coordinate": "929600",
+      "Y - Coordinate": "136603"
+    },
+    {
+      "Sample Site": "51850",
+      "Sample Station (SS) - Location Description": "IFO 67 N/S Hill St, 2nd SS W/O Tompkins Ave, 12\"",
+      "X - Coordinate": "961818",
+      "Y - Coordinate": "165626"
+    },
+    {
+      "Sample Site": "51900",
+      "Sample Station (SS) - Location Description": "N/S Vanderbilt Ave, BTW Bay St & Tompkins Ave, 66\"",
+      "X - Coordinate": "963592",
+      "Y - Coordinate": "165738"
+    },
+    {
+      "Sample Site": "51950",
+      "Sample Station (SS) - Location Description": "N/S Sobel Ct, 1st SS E/O Bowen St, 12\"",
+      "X - Coordinate": "961126",
+      "Y - Coordinate": "162906"
+    },
+    {
+      "Sample Site": "52000",
+      "Sample Station (SS) - Location Description": "W/S Clove Rd, Corner of S/O Richmond Terrace, 24\"",
+      "X - Coordinate": "949042",
+      "Y - Coordinate": "171355"
+    },
+    {
+      "Sample Site": "52050",
+      "Sample Station (SS) - Location Description": "IFO 218 W/S Nicholas Ave, 1st SS S/O Charles Ave, 12\"",
+      "X - Coordinate": "945148",
+      "Y - Coordinate": "170575"
+    },
+    {
+      "Sample Site": "52150",
+      "Sample Station (SS) - Location Description": "N/S Goethals Rd N, BTW Domain & Cooke Sts, 12\"",
+      "X - Coordinate": "940112",
+      "Y - Coordinate": "164049"
+    },
+    {
+      "Sample Site": "52350",
+      "Sample Station (SS) - Location Description": "OPP 133 W/S Giffords La, 1st SS N/O Dewey Ave, 12\"",
+      "X - Coordinate": "942056",
+      "Y - Coordinate": "141349"
+    },
+    {
+      "Sample Site": "52450",
+      "Sample Station (SS) - Location Description": "OPP 526 N/S Travis Ave, 1st SS E/O Merrymount St, 12\"",
+      "X - Coordinate": "940364",
+      "Y - Coordinate": "154531"
+    },
+    {
+      "Sample Site": "52550",
+      "Sample Station (SS) - Location Description": "IFO 43 N/S Dongan Hills Ave, 2nd SS N/O Jefferson St, 12\"",
+      "X - Coordinate": "956309",
+      "Y - Coordinate": "153545"
+    },
+    {
+      "Sample Site": "53500",
+      "Sample Station (SS) - Location Description": "E/S Targee St, S/O Baltic Ave, IFO 935 Targee St, 48\"",
+      "X - Coordinate": "959018",
+      "Y - Coordinate": "160070"
+    },
+    {
+      "Sample Site": "53550",
+      "Sample Station (SS) - Location Description": "IFO 130 W/S Lamport Blvd, 2nd SS S/O Kramer St, 8\"",
+      "X - Coordinate": "962638",
+      "Y - Coordinate": "156213"
+    },
+    {
+      "Sample Site": "55450",
+      "Sample Station (SS) - Location Description": "W/S Seguine Ave, 1st SS S/O Kingsland St, 12\"",
+      "X - Coordinate": "929492",
+      "Y - Coordinate": "127613"
+    },
+    {
+      "Sample Site": "56000",
+      "Sample Station (SS) - Location Description": "N/S Hylan Blvd, opposite Holten Ave, 24\"",
+      "X - Coordinate": "930020",
+      "Y - Coordinate": "128865"
+    },
+    {
+      "Sample Site": "56200",
+      "Sample Station (SS) - Location Description": "IFO 855 E/S Bloomingdale Rd, BTW Wirt & Candon Aves, 20\"",
+      "X - Coordinate": "923133",
+      "Y - Coordinate": "138620"
+    },
+    {
+      "Sample Site": "56300",
+      "Sample Station (SS) - Location Description": "E/S Richmond Ave, 1st SS S/O Vedder Ave, 20\"",
+      "X - Coordinate": "942510",
+      "Y - Coordinate": "165902"
+    },
+    {
+      "Sample Site": "56400",
+      "Sample Station (SS) - Location Description": "IFO 328 S/S Henderson Ave, BTW Westbury & Brentwood Aves, 20\"",
+      "X - Coordinate": "955493",
+      "Y - Coordinate": "172174"
+    },
+    {
+      "Sample Site": "57200",
+      "Sample Station (SS) - Location Description": "W/S Richmond Ave, BTW Genesee & Scranton Aves, 48\"",
+      "X - Coordinate": "937502",
+      "Y - Coordinate": "140778"
+    },
+    {
+      "Sample Site": "57750",
+      "Sample Station (SS) - Location Description": "IFO 264 W/S Lockman Ave, 2nd SS S/O Brabant St, 12\"",
+      "X - Coordinate": "939334",
+      "Y - Coordinate": "169106"
+    },
+    {
+      "Sample Site": "58150",
+      "Sample Station (SS) - Location Description": "IFO 3262 W/S Richmond Ave, 1st SS N/O Gurley Ave, 12\"",
+      "X - Coordinate": "937093",
+      "Y - Coordinate": "143243"
+    },
+    {
+      "Sample Site": "58250",
+      "Sample Station (SS) - Location Description": "IFO 578 E/S Drumgoole Rd East, 2nd SS N/O Arden Ave, 12\"",
+      "X - Coordinate": "934244",
+      "Y - Coordinate": "138616"
+    },
+    {
+      "Sample Site": "58300",
+      "Sample Station (SS) - Location Description": "IFO 4299 NW/S Hylan Blvd, BTW W\"ester & Thornycroft Aves, 48\"",
+      "X - Coordinate": "941916",
+      "Y - Coordinate": "134558"
+    },
+    {
+      "Sample Site": "58350",
+      "Sample Station (SS) - Location Description": "IFO 139 NE/S W\"ester Ave, 2nd SS N/O Hylan Blvd, 8\"",
+      "X - Coordinate": "941317",
+      "Y - Coordinate": "134810"
+    },
+    {
+      "Sample Site": "58400",
+      "Sample Station (SS) - Location Description": "IFO 408 W/S Woodrow Rd, BTW Arden Ave & Almond St, 20\"",
+      "X - Coordinate": "932029",
+      "Y - Coordinate": "139673"
+    },
+    {
+      "Sample Site": "58600",
+      "Sample Station (SS) - Location Description": "N/S Hylan Blvd, 1st SS E/O Page Ave, 20\"",
+      "X - Coordinate": "920455",
+      "Y - Coordinate": "124432"
+    },
+    {
+      "Sample Site": "58650",
+      "Sample Station (SS) - Location Description": "IFO 510 W/S Main St, 2nd SS S/O Hylan Blvd, 12\"",
+      "X - Coordinate": "916207",
+      "Y - Coordinate": "122378"
+    },
+    {
+      "Sample Site": "58850",
+      "Sample Station (SS) - Location Description": "IFO 255 N/S Westwood Ave, 1st SS W/O Franklin Pl, 12\"",
+      "X - Coordinate": "951160",
+      "Y - Coordinate": "160296"
+    },
+    {
+      "Sample Site": "58950",
+      "Sample Station (SS) - Location Description": "IFO 1085-15 N/S Castleton Ave, 2nd SS W/O Broadway, 12\"",
+      "X - Coordinate": "951286",
+      "Y - Coordinate": "170459"
+    },
+    {
+      "Sample Site": "59050",
+      "Sample Station (SS) - Location Description": "IFO 989 N/S Forest Ave, 2nd SS W/O Clove Rd, 12\"",
+      "X - Coordinate": "950229",
+      "Y - Coordinate": "167908"
+    },
+    {
+      "Sample Site": "59300",
+      "Sample Station (SS) - Location Description": "N/S Victory Blvd, 1st SS E/O Royal Oak Rd, 16\"",
+      "X - Coordinate": "952850",
+      "Y - Coordinate": "162957"
+    },
+    {
+      "Sample Site": "59350",
+      "Sample Station (SS) - Location Description": "IFO 1824 S/S Victory Blvd, BTW Raymond Ave & Lester St, 12\"",
+      "X - Coordinate": "949781",
+      "Y - Coordinate": "162605"
+    },
+    {
+      "Sample Site": "76150",
+      "Sample Station (SS) - Location Description": "IFO 160-20 S/S 85th Ave, BTW 160th & 161st Sts",
+      "X - Coordinate": "1038620",
+      "Y - Coordinate": "198864"
+    },
+    {
+      "Sample Site": "76300",
+      "Sample Station (SS) - Location Description": "N/S Hillside Ave & BTW 213 Pl & 214 St, 16\"",
+      "X - Coordinate": "1052705",
+      "Y - Coordinate": "203691"
+    },
+    {
+      "Sample Site": "76450",
+      "Sample Station (SS) - Location Description": "OPP 139-50 N/S 85th Dr, 2nd SS E/O 139th St",
+      "X - Coordinate": "1035350",
+      "Y - Coordinate": "197598"
+    },
+    {
+      "Sample Site": "76550",
+      "Sample Station (SS) - Location Description": "N/S Baisley Blvd, W/O Smith St",
+      "X - Coordinate": "1045511",
+      "Y - Coordinate": "186628"
+    },
+    {
+      "Sample Site": "76650",
+      "Sample Station (SS) - Location Description": "IFO 87-60 W/S Chevy Chase St, 2nd S/O Henley Rd",
+      "X - Coordinate": "1046472",
+      "Y - Coordinate": "200528"
+    },
+    {
+      "Sample Site": "76750",
+      "Sample Station (SS) - Location Description": "IFO 160-10 S/S 89th Ave, 2nd E/O Parsons Blvd",
+      "X - Coordinate": "1039534",
+      "Y - Coordinate": "196579"
+    },
+    {
+      "Sample Site": "76850",
+      "Sample Station (SS) - Location Description": "IFO 111-46 W/S Farmers Blvd, 1st SS N/O Keeseville Ave",
+      "X - Coordinate": "1049525",
+      "Y - Coordinate": "194731"
+    },
+    {
+      "Sample Site": "76950",
+      "Sample Station (SS) - Location Description": "IFO 90-20 W/S Francis Lewis Blvd, 1st SS S/O 90th Ave",
+      "X - Coordinate": "1051654",
+      "Y - Coordinate": "200734"
+    },
+    {
+      "Sample Site": "77050",
+      "Sample Station (SS) - Location Description": "IFO 93-40 E/S 217th St, S/O 94th Ave (IFO - Queens Village Library)",
+      "X - Coordinate": "1056499",
+      "Y - Coordinate": "201702"
+    },
+    {
+      "Sample Site": "77150",
+      "Sample Station (SS) - Location Description": "N/S Linden Blvd, 1st SS W/O 230th St",
+      "X - Coordinate": "1058674",
+      "Y - Coordinate": "191704"
+    },
+    {
+      "Sample Site": "77350",
+      "Sample Station (SS) - Location Description": "S/S Merrick Blvd, BTW 222nd St & 223rd St, IFO 222-18 Merrick Blvd",
+      "X - Coordinate": "1054559",
+      "Y - Coordinate": "186410"
+    },
+    {
+      "Sample Site": "77550",
+      "Sample Station (SS) - Location Description": "IFO E/S 222nd St, 2nd S/O 91st Rd",
+      "X - Coordinate": "1057716",
+      "Y - Coordinate": "204264"
+    },
+    {
+      "Sample Site": "77650",
+      "Sample Station (SS) - Location Description": "OPP 110-52 E/S 207th St, 1st N/O 111th Ave",
+      "X - Coordinate": "1053711",
+      "Y - Coordinate": "196581"
+    },
+    {
+      "Sample Site": "77750",
+      "Sample Station (SS) - Location Description": "OPP 120-11 W/S 237th St, 1st SS S/O 120th Ave",
+      "X - Coordinate": "1059645",
+      "Y - Coordinate": "189067"
+    },
+    {
+      "Sample Site": "77850",
+      "Sample Station (SS) - Location Description": "N/S 90th Ave, BTW 179th & 180th Sts",
+      "X - Coordinate": "1044675",
+      "Y - Coordinate": "198391"
+    },
+    {
+      "Sample Site": "78050",
+      "Sample Station (SS) - Location Description": "OPP 110-38 E/S Springfield Blvd, 1st S/O 110th Rd",
+      "X - Coordinate": "1056660",
+      "Y - Coordinate": "197103"
+    },
+    {
+      "Sample Site": "78150",
+      "Sample Station (SS) - Location Description": "IFO 85-31 E/S 120th St, 2nd SS N/O Hillside Ave",
+      "X - Coordinate": "1031161",
+      "Y - Coordinate": "195158"
+    },
+    {
+      "Sample Site": "78350",
+      "Sample Station (SS) - Location Description": "N/S Hillside Ave, BTW 189th & 190th Sts",
+      "X - Coordinate": "1047324",
+      "Y - Coordinate": "200078"
+    },
+    {
+      "Sample Site": "78450",
+      "Sample Station (SS) - Location Description": "IFO 88-18 W/S Hollis Court Blvd, 2nd SS S/O Hillside Ave",
+      "X - Coordinate": "1052428",
+      "Y - Coordinate": "202866"
+    },
+    {
+      "Sample Site": "78550",
+      "Sample Station (SS) - Location Description": "W/S Springfield Blvd, 2nd SS S/O 116th Ave",
+      "X - Coordinate": "1055425",
+      "Y - Coordinate": "193468"
+    },
+    {
+      "Sample Site": "78650",
+      "Sample Station (SS) - Location Description": "SS -N/S Linden Blvd, 1st SS E/O 191st St (IFO Queens Library)",
+      "X - Coordinate": "1050830",
+      "Y - Coordinate": "191629"
+    },
+    {
+      "Sample Site": "78850",
+      "Sample Station (SS) - Location Description": "OPP 109-36 E/S 160th St, 2nd SS N/O 110th Ave",
+      "X - Coordinate": "1042080",
+      "Y - Coordinate": "191964"
+    },
+    {
+      "Sample Site": "79050",
+      "Sample Station (SS) - Location Description": "S/S South Conduit Ave, 1st SS E/O 221st St",
+      "X - Coordinate": "1051749",
+      "Y - Coordinate": "181801"
+    },
+    {
+      "Sample Site": "79150",
+      "Sample Station (SS) - Location Description": "IFO 127-11 E/S Farmers Blvd (Keyspan), 2nd SS N/O Merrick Blvd",
+      "X - Coordinate": "1050498",
+      "Y - Coordinate": "187418"
+    },
+    {
+      "Sample Site": "79450",
+      "Sample Station (SS) - Location Description": "OPP 127-18 N/S Foch Blvd, 1st SS W/O 128th St",
+      "X - Coordinate": "1036997",
+      "Y - Coordinate": "185580"
+    },
+    {
+      "Sample Site": "79550",
+      "Sample Station (SS) - Location Description": "OPP 109-11 W/S 127th St, 2nd SS S/O 109th Ave",
+      "X - Coordinate": "1035573",
+      "Y - Coordinate": "188405"
+    }
+  ]
+}

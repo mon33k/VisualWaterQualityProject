@@ -1,17 +1,13 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
 class Bookmark extends Component {
-    constructor() {
-        super()
-    }
+  constructor() {
+    super();
+  }
 
-    render() {
-        return (
-            <div>
-                Bookmark page
-            </div>
-        )
-    }
+  render() {
+    return <div className="bookmark-container">Bookmark page</div>;
+  }
 }
 
 export default Bookmark;

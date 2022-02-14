@@ -1,4 +1,16 @@
 body {
   width: 100%;
-  background-color: #c9ddf8;
+  background-color: #99bbc0;
+}
+
+.home-container,
+.searchborough-container,
+.resources-container,
+.infoTable-container,
+.bookmark-container,
+.historyTimeline-container {
+  display: flex;
+  flex-direction: column;
+  padding-top: 5vh;
+  justify-content: center;
 }

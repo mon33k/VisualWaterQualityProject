@@ -3,3 +3,8 @@
   flex-direction: column;
   align-items: flex-start; */
 }
+
+.borough-form {
+  margin: auto;
+  width: 20vw;
+}

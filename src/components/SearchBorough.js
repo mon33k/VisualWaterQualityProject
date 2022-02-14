@@ -1,12 +1,14 @@
 import React, { Component } from "react";
-// import NycMap from "./NycMap";
 import waterAPI from "../api/waterAPI";
-import values from "../geography/values.json";
+// import XLSX from "xlsx";
 import Alert from "react-bootstrap/Alert";
 import "../stylesheets/searchBoroComponent.css";
 import { Form, Col, Row, Button } from "react-bootstrap";
 
 import InfoTable from "./InfoTable";
+import NycMap from "./NycMap";
+
+const locationInfo = require("../api/samplesites.json");
 
 class SearchBorough extends Component {
   constructor() {
@@ -18,12 +20,6 @@ class SearchBorough extends Component {
     this.handleInputChange = this.handleInputChange.bind(this);
     this.handleSubmitBorough = this.handleSubmitBorough.bind(this);
   }
-
-  // getSvgPathData () {
-  //     waterAPI.getGeoData()
-  //         .then(res => this.setState({geoData: res.json()}))
-  //         .catch(err => console.log(err))
-  // }
 
   handleInputChange(e) {
     this.setState({
@@ -37,22 +33,15 @@ class SearchBorough extends Component {
     e.preventDefault();
   }
 
-  componentDidMount() {
-    // this.getSvgPathData()
-    // waterAPI.getGeoData
-    // .then(res =>{
-    //     console.log("res.json()", res)
-    //     this.setState({geoData: res})
-    // })
-    // .catch(err => console.log(err))
-  }
+  getSampleSiteLocations = () => {};
 
   render() {
-    console.log("right here", this.props.boroughData);
+    // console.log("right here", this.props.boroughData);
+    // console.log("json info hereee ", locationInfo);
 
     return (
-      <div>
-        <Form onSubmit={this.handleSubmitBorough} id="boroughForm">
+      <div className="searchborough-container">
+        <Form onSubmit={this.handleSubmitBorough} className="borough-form">
           <Form.Select
             value={this.state.value}
             onChange={this.handleInputChange}
@@ -83,10 +72,10 @@ class SearchBorough extends Component {
         ) : (
           ""
         )}
+        {/* <NycMap /> */}
       </div>
     );
   }
 }
 
-// {/* <NycMap geoData={values}/> */}
 export default SearchBorough;
