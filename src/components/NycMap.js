@@ -4,7 +4,7 @@ import * as d3Geo from "d3-geo";
 import nycJson from "../geography/values.json";
 import "../stylesheets/nycMap.css";
 
-const NycMap = () => {
+const NycMap = ({ setBorough, data }) => {
   const geoRef = React.useRef();
   const width = 960;
   const height = 500;
@@ -78,7 +78,8 @@ const NycMap = () => {
   };
 
   const mouseDownEvent = (e, d) => {
-    console.log("okurrr", d);
+    console.log("okurrr", d.properties.boro_name);
+    setBorough(d.properties.boro_name);
     //d3.select(e.target)
   };
 

@@ -1,3 +1,8 @@
 .nyc-svg:hover {
   fill: "orange" !important;
 }
+
+.nyc-svg {
+  display: block;
+  margin: auto;
+}

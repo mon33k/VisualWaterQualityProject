@@ -18,7 +18,7 @@ const drinkingWaterQualityApi =
   "https://data.cityofnewyork.us/resource/bkwf-xfky.json";
 
 const grabAllData = axios
-  .get(drinkingWaterQualityApi)
+  .get(mapWaterQualityApi)
   .then((res) => res.data)
   .catch((err) => console.log(err));
 

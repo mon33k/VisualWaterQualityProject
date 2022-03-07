@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import { Route, Switch, Link, NavLink } from "react-router-dom";
+import { Route, Routes, Link } from "react-router-dom";
 import { Nav, Navbar } from "react-bootstrap";
-
 import "bootstrap/dist/css/bootstrap.min.css";
+
 import "./App.css";
 
 import Home from "./components/Home";
@@ -18,23 +18,23 @@ class App extends Component {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
-              <Nav.Link as={NavLink} to="/water/searchBorough">
+              <Link className="nav-link" to="/water/searchBorough">
                 Search Borough
-              </Nav.Link>
-              <Nav.Link as={NavLink} to="/water/bookmark">
+              </Link>
+              <Link className="nav-link" to="/water/bookmark">
                 Bookmark Info
-              </Nav.Link>
-              <Nav.Link as={NavLink} to="/water/resources">
+              </Link>
+              <Link className="nav-link" to="/water/resources">
                 Resources
-              </Nav.Link>
+              </Link>
             </Nav>
           </Navbar.Collapse>
         </Navbar>
 
-        <Switch>
-          <Route exact path="/" component={Home} />
-          <Route path="/water" component={Main} />
-        </Switch>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/water" element={<Main />} />
+        </Routes>
       </div>
     );
   }

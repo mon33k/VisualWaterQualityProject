@@ -36,7 +36,7 @@ class SearchBorough extends Component {
   getSampleSiteLocations = () => {};
 
   render() {
-    // console.log("right here", this.props.boroughData);
+    console.log("right here", this.props.boroughData);
     // console.log("json info hereee ", locationInfo);
 
     return (
@@ -67,12 +67,16 @@ class SearchBorough extends Component {
             Submit
           </Button>
         </Form>
+        <NycMap
+          data={this.props.boroughData}
+          setBorough={this.handleSubmitBorough}
+        />
+
         {this.props.boroughData.length > 0 ? (
           <InfoTable data={this.props.boroughData} />
         ) : (
           ""
         )}
-        {/* <NycMap /> */}
       </div>
     );
   }
